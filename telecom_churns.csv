@@ -1,0 +1,1213 @@
+customer_id,age,gender,city,plan_type,monthly_bill,data_usage_gb,call_minutes,sms_count,complaints,customer_tenure_months,payment_method,network_quality,support_calls,device_type,churn_status,customer_rating
+C10047,26.0,Male,Pune,Basic,2295.08,28.34,174,54,3,18,UPI,Poor,6,Android,Yes,1.7
+C10291,46.0,Male,Trichy,Standard,1021.97,9.16,441,53,2,51,Debit Card,Poor,1,Android,Yes,2.9
+C10755,31.0,Male,Mumbai,Premium,1196.5,29.23,360,48,1,54,UPI,Average,2,iPhone,No,3.0
+C10449,22.0,Male,Madurai,Standard,2389.49,34.39,292,52,1,16,UPI,Average,2,Android,Yes,2.9
+C10912,21.0,Female,Coimbatore,Standard,1168.94,6.19,478,56,2,83,Net Banking,Excellent,3,Android,No,2.6
+C10294,35.0,Male,Hyderabad,Standard,570.35,16.24,722,54,3,70,Debit Card,Good,0,Android,No,3.6
+C10801,32.0,Female,Madurai,Standard,1579.58,16.94,388,41,0,66,UPI,Average,2,iPhone,No,4.0
+C10987,54.0,Female,Madurai,Premium,278.19,10.96,414,50,0,32,Net Banking,Good,1,Feature Phone,No,4.3
+C10194,41.0,Male,Bengaluru,Basic,341.7,23.53,172,37,0,29,UPI,Poor,2,iPhone,No,4.3
+C10736,52.0,Male,Madurai,Unlimited,1573.09,4.09,451,42,3,33,UPI,Excellent,1,Android,No,3.9
+C10444,57.0,Female,Bengaluru,Standard,474.89,25.74,730,34,2,35,UPI,Average,3,Android,No,2.6
+C10570,26.0,Female,Pune,Standard,221.79,20.48,497,35,0,84,Credit Card,Poor,0,Android,No,3.1
+C10357,48.0,Female,Madurai,Basic,850.55,12.13,252,33,4,4,Net Banking,Average,3,Android,Yes,2.1
+C10789,55.0,Female,Pune,Unlimited,1226.47,13.35,256,37,3,94,Auto Pay,Average,0,Android,Yes,2.7
+C10536,38.0,Male,Trichy,Standard,668.76,14.36,366,42,1,21,UPI,Excellent,3,Android,Yes,3.4
+C10828,25.0,Male,Coimbatore,Standard,650.92,4.96,454,42,3,16,UPI,Poor,2,Feature Phone,Yes,2.6
+C10223,34.0,Other,Coimbatore,Premium,1474.88,15.22,911,54,1,75,Debit Card,Average,5,Feature Phone,Yes,1.0
+C10881,19.0,Male,Pune,Premium,,9.29,430,42,1,65,UPI,Good,1,Android,No,3.5
+C10143,32.0,Female,Hyderabad,Premium,2072.09,15.35,385,44,1,49,Net Banking,Excellent,1,Android,No,4.3
+C10655,23.0,Male,Kochi,Unlimited,,9.95,464,52,2,31,Credit Card,Good,3,iPhone,No,2.8
+C11033,54.0,Male,Salem,Basic,333.45,23.26,519,46,1,19,UPI,Average,4,iPhone,Yes,3.0
+C10522,25.0,Female,Hyderabad,Premium,2085.58,8.17,601,48,0,75,Credit Card,Excellent,0,Android,No,4.8
+C10985,31.0,Female,Pune,Standard,1499.46,28.99,249,39,1,8,UPI,Good,5,Android,Yes,3.0
+C10253,18.0,Female,Trichy,Standard,752.54,13.18,500,49,6,23,Auto Pay,Good,2,Feature Phone,Yes,2.0
+C10543,52.0,Male,Salem,Standard,584.97,9.14,808,45,3,32,Credit Card,Average,4,iPhone,No,2.8
+C10451,46.0,Male,Chennai,Standard,1722.32,15.63,533,41,1,73,Debit Card,Excellent,1,Android,Yes,4.7
+C10542,52.0,Male,Coimbatore,Unlimited,1906.27,,333,48,2,70,Net Banking,Excellent,1,iPhone,No,3.4
+C10820,60.0,Male,Mumbai,Standard,1985.64,4.23,210,56,0,55,UPI,Good,2,iPhone,No,3.6
+C11155,31.0,Male,Trichy,Basic,2380.25,44.04,428,48,0,38,UPI,Average,0,Android,No,5.0
+C10778,47.0,Other,Mumbai,Standard,1308.98,,394,39,1,62,UPI,Average,2,Feature Phone,No,3.4
+C10984,43.0,Female,Trichy,Unlimited,1177.66,5.52,241,39,1,70,Auto Pay,Good,3,Android,Yes,3.2
+C10838,49.0,Male,Salem,Basic,2338.38,6.78,278,62,1,46,UPI,Good,2,Android,Yes,4.3
+C10966,19.0,Male,Trichy,Unlimited,2289.3,15.79,211,45,0,46,UPI,Excellent,5,Android,Yes,3.3
+C10562,39.0,Male,Kochi,Standard,1100.17,24.65,299,35,0,54,UPI,Average,4,Android,No,3.2
+C10322,51.0,Female,Pune,Standard,1544.1,13.99,230,57,1,35,Auto Pay,Good,2,Android,Yes,2.8
+C10944,28.0,Male,Bengaluru,Unlimited,1485.2,23.79,262,54,5,26,UPI,Good,1,iPhone,Yes,2.3
+C10367,44.0,Female,Chennai,Standard,2237.19,19.59,356,47,0,86,Debit Card,Poor,3,iPhone,No,3.6
+C10957,19.0,Male,Madurai,Standard,,10.47,100,43,2,32,Auto Pay,Average,1,Feature Phone,Yes,4.0
+C10440,64.0,Male,Coimbatore,Standard,961.72,6.69,812,49,2,76,UPI,,1,Android,No,4.0
+C10019,41.0,Male,Bengaluru,Premium,1299.53,6.39,107,52,1,23,Credit Card,Good,1,Android,No,4.5
+C10726,28.0,Female,Bengaluru,Premium,1428.49,22.6,612,59,1,61,Debit Card,Poor,3,Android,No,3.3
+C10324,47.0,Male,Salem,Premium,600.14,30.97,959,41,1,21,Debit Card,Poor,2,iPhone,No,3.6
+C10231,33.0,Male,Salem,Basic,254.21,14.56,73,50,0,3,Debit Card,Excellent,1,Android,No,5.0
+C10225,41.0,Male,Mumbai,Premium,208.63,17.48,86,38,2,87,UPI,Average,2,Feature Phone,No,3.8
+C10043,35.0,Female,Kochi,Premium,635.85,8.68,254,49,2,10,UPI,Excellent,1,Android,Yes,2.9
+C10833,20.0,Female,Coimbatore,Standard,2172.25,19.08,230,45,1,30,UPI,Poor,2,iPhone,No,3.4
+C10786,19.0,Male,Bengaluru,Standard,1406.61,6.91,212,48,1,92,Credit Card,Good,3,iPhone,Yes,3.2
+C10181,44.0,Male,Mumbai,Basic,1215.22,20.17,627,49,3,42,Credit Card,Good,0,iPhone,Yes,3.4
+C10452,20.0,Male,Chennai,Unlimited,1928.2,4.24,583,46,0,42,Auto Pay,Good,1,Android,Yes,4.2
+C10751,27.0,Female,Pune,Premium,1507.6,5.42,332,50,1,30,Net Banking,Excellent,2,Android,No,3.6
+C10170,45.0,Male,Trichy,Unlimited,706.12,17.03,250,54,2,69,UPI,Good,2,Android,No,3.9
+C11143,29.0,Female,Madurai,Basic,1373.06,22.86,853,45,0,33,UPI,Good,3,iPhone,Yes,4.3
+C10379,43.0,Female,Coimbatore,Premium,2262.99,7.37,249,40,3,7,Debit Card,Good,3,Android,Yes,2.7
+C10017,39.0,Male,Salem,Premium,2415.0,8.13,212,41,1,52,UPI,Average,0,iPhone,Yes,4.1
+C10214,36.0,Female,Trichy,Standard,482.55,36.74,232,39,2,91,UPI,Poor,1,Android,Yes,3.0
+C10506,18.0,Female,Madurai,Unlimited,990.41,27.81,224,47,1,94,Credit Card,Good,1,iPhone,No,4.4
+C10980,37.0,Female,Pune,Standard,679.92,26.22,612,35,0,46,Credit Card,Good,1,Android,No,3.8
+C10024,38.0,Female,Bengaluru,Standard,441.61,9.27,210,55,1,46,Net Banking,Excellent,2,Android,No,3.2
+C10588,59.0,Male,Chennai,Unlimited,974.86,,298,41,0,71,Net Banking,Good,2,Feature Phone,No,3.4
+C10718,47.0,Female,Mumbai,Unlimited,,15.95,181,44,1,79,UPI,Good,2,Android,No,2.7
+C11101,62.0,Male,Madurai,Premium,314.4,21.59,704,44,1,41,Net Banking,Excellent,1,Android,No,4.6
+C10699,53.0,Female,Trichy,Standard,2231.47,6.98,187,47,1,3,Net Banking,Excellent,2,iPhone,No,4.8
+C10479,53.0,Female,Hyderabad,Premium,1830.59,18.87,981,50,4,29,UPI,Excellent,1,Feature Phone,Yes,2.8
+C10694,25.0,Female,Salem,Premium,668.4,16.15,408,40,1,66,Auto Pay,Good,3,iPhone,Yes,2.8
+C10663,38.0,Male,Trichy,Unlimited,448.97,12.36,501,38,4,38,UPI,Average,2,iPhone,Yes,2.7
+C10659,62.0,Male,Hyderabad,Basic,1101.1,9.63,634,54,1,55,UPI,Good,3,Android,Yes,4.4
+C11093,,Female,Salem,Basic,987.96,6.14,465,57,0,78,Debit Card,Excellent,1,iPhone,No,4.2
+C10815,51.0,Male,Salem,Unlimited,1287.9,15.53,261,51,2,59,Credit Card,Good,3,Android,No,2.7
+C10010,28.0,Female,Kochi,Basic,258.09,6.78,409,47,2,41,Net Banking,Excellent,3,iPhone,No,2.7
+C10827,33.0,Female,Mumbai,Premium,1660.24,16.46,351,54,0,23,Debit Card,Average,2,Android,Yes,4.3
+C10618,36.0,Female,Trichy,Basic,2087.88,8.79,829,40,0,71,UPI,Average,1,iPhone,No,4.4
+C11179,52.0,Female,Coimbatore,Standard,2476.66,25.82,459,50,2,81,Debit Card,Excellent,3,iPhone,No,3.2
+C10608,30.0,Female,Pune,Standard,,14.12,493,56,2,92,UPI,Average,2,iPhone,No,3.1
+C11200,60.0,Male,Madurai,Basic,1223.69,23.68,359,38,2,35,Auto Pay,Excellent,1,iPhone,No,4.3
+C10795,32.0,Female,Madurai,Standard,756.41,9.92,309,38,1,70,UPI,Poor,3,Android,Yes,2.9
+C11070,23.0,Male,Pune,Premium,357.13,3.72,311,43,0,9,Net Banking,Excellent,1,Android,No,4.1
+C10396,45.0,Female,Mumbai,Basic,,12.3,157,39,1,69,,Excellent,1,Feature Phone,No,3.9
+C10693,43.0,Female,Pune,Standard,2094.19,3.08,349,59,4,10,UPI,Average,5,Android,Yes,2.2
+C10468,43.0,Female,Coimbatore,Unlimited,1080.81,16.58,309,48,2,48,Credit Card,Good,2,iPhone,No,3.5
+C10722,18.0,Male,Mumbai,Standard,1904.6,20.47,410,40,0,10,UPI,Good,2,Android,No,4.5
+C10962,32.0,Female,Kochi,Basic,,6.29,73,50,3,74,Auto Pay,Good,2,Android,Yes,3.0
+C11123,27.0,Male,Salem,Standard,2255.05,4.23,580,47,5,47,UPI,Excellent,3,Android,No,2.3
+C11178,58.0,Male,Kochi,Premium,1383.88,40.92,352,59,0,20,Auto Pay,Average,1,iPhone,No,4.1
+C10197,49.0,Female,Salem,Basic,1500.84,11.85,277,43,4,47,UPI,Average,2,iPhone,No,2.1
+C10393,29.0,Male,Hyderabad,Premium,1683.89,46.51,326,50,0,6,UPI,Average,3,iPhone,No,3.7
+C10210,54.0,Female,Pune,Unlimited,881.21,13.42,127,58,1,76,Debit Card,Excellent,2,Feature Phone,No,4.0
+C10788,56.0,Male,Pune,Premium,779.0,13.17,935,39,1,45,Credit Card,Average,2,Android,No,3.8
+C11019,31.0,Male,Bengaluru,Standard,1066.56,12.8,1054,38,2,53,Net Banking,Good,0,Feature Phone,No,4.3
+C10460,45.0,Female,Salem,Premium,1757.76,6.76,349,46,1,64,Debit Card,Excellent,1,iPhone,No,4.6
+C11154,46.0,Female,Pune,Standard,2063.57,10.16,457,45,3,13,Net Banking,Good,1,iPhone,Yes,3.0
+C10066,21.0,Male,Salem,Standard,979.4,16.68,393,43,0,70,UPI,Excellent,4,iPhone,No,3.4
+C10725,64.0,Male,Mumbai,Premium,1473.18,16.9,190,37,1,23,Debit Card,Good,0,Feature Phone,Yes,3.1
+C11177,43.0,Male,Hyderabad,Standard,1797.43,4.51,82,39,1,51,UPI,Good,1,Android,No,4.8
+C10877,45.0,Other,Pune,Standard,953.13,19.03,794,52,1,49,UPI,Good,2,Android,No,3.9
+C10310,50.0,Female,Salem,Premium,1321.81,9.36,121,39,0,58,UPI,Good,5,iPhone,No,4.0
+C10037,20.0,Male,Hyderabad,Standard,2061.83,8.83,144,48,2,24,Credit Card,Good,1,Android,Yes,3.5
+C11165,,Male,Mumbai,Basic,2488.47,6.58,212,44,3,95,Net Banking,Good,1,Feature Phone,No,3.4
+C10426,59.0,Male,Trichy,Basic,1317.2,9.23,68,46,1,59,Debit Card,Good,1,iPhone,Yes,3.5
+C10508,57.0,Male,Hyderabad,Premium,1212.53,7.15,309,40,2,26,Credit Card,Excellent,2,Android,Yes,3.4
+C10278,41.0,Male,,Premium,1752.55,10.45,292,66,3,15,Credit Card,Good,1,Android,No,3.8
+C11028,39.0,Male,Mumbai,Premium,1104.64,10.4,412,53,1,84,Debit Card,Average,2,iPhone,No,4.1
+C10867,43.0,Male,Coimbatore,Unlimited,394.42,4.65,290,45,2,94,Net Banking,Good,3,Android,No,3.6
+C10606,24.0,Female,Pune,Standard,337.52,10.12,323,38,1,15,Net Banking,Average,0,Android,No,4.3
+C10131,54.0,Male,Coimbatore,Basic,291.66,15.02,246,47,2,17,Credit Card,Excellent,2,Android,No,2.3
+C10045,42.0,Male,Coimbatore,Standard,1478.87,10.89,378,41,2,55,Debit Card,Poor,2,Android,No,2.8
+C10437,29.0,Male,Kochi,Basic,1786.74,2.13,391,52,3,62,Debit Card,Excellent,4,iPhone,Yes,3.1
+C10430,36.0,Female,Kochi,Standard,2059.3,18.57,423,49,2,25,Auto Pay,Average,1,Android,Yes,2.7
+C10486,22.0,Female,Madurai,Premium,1867.35,24.52,292,47,2,92,UPI,Average,2,Android,No,3.0
+C10093,62.0,Female,Hyderabad,Unlimited,1100.01,15.25,445,44,0,4,Auto Pay,Good,0,Feature Phone,No,4.2
+C10779,34.0,Female,Salem,Standard,695.87,31.73,146,57,2,77,Credit Card,Average,0,iPhone,No,3.8
+C10352,50.0,Male,Chennai,Standard,386.62,22.2,354,37,2,78,UPI,Average,5,Feature Phone,No,2.5
+C11016,48.0,Female,Bengaluru,Premium,1677.39,22.08,442,41,2,1,Credit Card,Average,1,Android,Yes,2.9
+C11183,55.0,Female,Hyderabad,Basic,591.06,12.58,535,51,1,14,Net Banking,Good,4,Android,No,3.2
+C10998,27.0,Male,Chennai,Premium,1927.27,12.21,267,38,2,82,Debit Card,Good,3,iPhone,No,3.3
+C10428,36.0,Male,Madurai,Premium,770.64,30.19,374,36,2,95,UPI,,2,iPhone,No,3.2
+C10104,34.0,Female,Coimbatore,Standard,1441.64,26.98,668,50,1,2,UPI,Average,3,Android,No,2.4
+C10467,33.0,Female,Chennai,Standard,2151.93,34.95,371,58,1,37,Net Banking,Excellent,1,iPhone,No,3.8
+C10026,29.0,Male,Mumbai,Standard,1450.99,14.51,419,47,0,31,Auto Pay,Good,2,iPhone,No,3.9
+C11015,47.0,Female,Madurai,Premium,2459.78,48.76,248,58,2,74,UPI,Good,2,iPhone,No,3.0
+C10951,57.0,Female,Kochi,Basic,382.34,13.95,342,39,1,41,Net Banking,Good,1,Android,No,5.0
+C10590,31.0,Female,Pune,Basic,200.38,21.6,439,33,3,6,Debit Card,Excellent,2,iPhone,No,2.7
+C10603,61.0,Male,Madurai,Basic,958.36,17.45,702,43,1,20,Net Banking,Excellent,4,Android,No,2.7
+C10686,55.0,Male,Salem,Premium,651.38,16.58,334,47,0,81,Debit Card,Average,2,Android,Yes,3.6
+C10873,64.0,Male,Trichy,Premium,997.11,23.17,603,31,2,60,Debit Card,Good,1,Android,No,4.1
+C11012,41.0,Male,Bengaluru,Standard,1089.61,10.16,178,46,2,40,UPI,Good,2,Android,No,3.8
+C11133,29.0,Female,Mumbai,Premium,1532.61,9.6,415,59,3,4,UPI,Good,2,iPhone,No,2.9
+C10243,36.0,Male,Mumbai,Basic,2033.28,27.47,215,55,1,73,Credit Card,Good,1,Android,No,4.4
+C10137,43.0,Male,Bengaluru,Standard,1305.94,36.21,122,47,0,64,Auto Pay,Average,0,Android,No,4.5
+C11188,51.0,Female,Chennai,Unlimited,1312.6,13.5,341,39,3,88,UPI,Excellent,3,Android,Yes,2.4
+C10534,53.0,Female,,Basic,992.54,22.27,813,47,1,22,Net Banking,Poor,2,Android,Yes,3.3
+C10219,23.0,Male,Hyderabad,Premium,1772.92,6.41,544,51,0,5,Auto Pay,Poor,3,Android,No,3.1
+C10577,33.0,Female,Madurai,Standard,770.79,28.57,217,46,2,88,Credit Card,,2,iPhone,No,3.1
+C10776,22.0,Male,Bengaluru,Standard,870.4,11.78,494,47,1,42,Credit Card,Average,1,Android,No,3.5
+C11055,55.0,Male,Kochi,Standard,1166.69,16.03,659,40,3,3,Credit Card,Good,1,Android,No,2.8
+C10657,62.0,Female,Bengaluru,Standard,298.13,13.27,113,36,2,26,Net Banking,Poor,3,iPhone,Yes,2.2
+C10738,38.0,Male,Kochi,Standard,313.09,13.53,235,43,2,2,Credit Card,Good,1,Android,No,3.5
+C10691,45.0,Female,Coimbatore,Standard,1799.98,6.54,128,40,0,30,UPI,Average,2,Android,Yes,4.5
+C10458,46.0,Male,Chennai,Unlimited,1820.59,12.41,261,44,0,84,UPI,Average,1,Android,No,5.0
+C10524,43.0,Female,Coimbatore,Standard,1162.63,3.53,639,40,1,36,UPI,Average,0,Feature Phone,No,3.9
+C10127,44.0,Male,Kochi,Basic,2211.81,30.41,169,48,3,89,Debit Card,Good,0,Android,No,3.3
+C10812,37.0,Male,Salem,Basic,2075.21,11.23,422,37,0,10,UPI,Excellent,1,Feature Phone,No,4.0
+C11141,57.0,Female,Mumbai,Unlimited,554.4,22.81,534,46,0,87,Auto Pay,Good,3,iPhone,No,3.8
+C11008,34.0,Male,Chennai,Standard,670.05,21.65,14,46,3,55,UPI,,1,Android,No,3.1
+C11130,43.0,Male,Kochi,Unlimited,840.0,10.52,117,37,1,85,Debit Card,Average,0,iPhone,No,4.0
+C10808,27.0,Male,Madurai,Basic,356.41,7.13,186,45,1,7,UPI,Excellent,4,Android,Yes,2.9
+C10273,52.0,Male,Pune,Unlimited,1460.75,19.87,337,49,3,55,Debit Card,Poor,1,Android,Yes,2.4
+C10072,27.0,Female,Hyderabad,Basic,1014.88,16.51,481,28,1,17,UPI,Average,3,Feature Phone,No,3.9
+C10692,53.0,Male,Madurai,Premium,1032.75,22.27,96,33,3,71,Debit Card,Average,1,iPhone,No,2.8
+C10147,49.0,Female,Kochi,Standard,1680.1,13.18,226,51,1,27,UPI,Poor,2,Android,Yes,2.5
+C10374,26.0,Male,Coimbatore,Premium,1855.36,7.41,430,43,1,5,Auto Pay,Good,4,Android,Yes,3.2
+C11140,64.0,Female,Coimbatore,Premium,388.92,25.73,268,39,1,25,Auto Pay,Excellent,2,Android,No,3.2
+C10864,47.0,Male,Pune,Standard,653.38,35.83,209,38,0,5,Credit Card,Poor,0,Android,No,3.3
+C10790,51.0,Male,Trichy,Premium,482.93,25.38,240,43,3,35,Debit Card,Good,1,Android,No,3.5
+C10750,27.0,Male,Chennai,Premium,2290.96,34.36,666,41,0,76,UPI,Excellent,1,Android,No,4.8
+C10377,46.0,Male,Hyderabad,Standard,312.21,16.7,559,46,1,74,Debit Card,Good,2,Android,No,3.2
+C10407,32.0,Female,Chennai,Standard,917.04,9.92,183,34,2,41,UPI,Average,0,Android,No,3.7
+C10015,41.0,Female,Chennai,Premium,650.37,5.18,267,47,1,83,Auto Pay,Excellent,1,Android,No,4.2
+C10319,25.0,Female,Pune,Standard,855.94,15.5,215,35,2,45,Debit Card,Excellent,0,iPhone,No,3.5
+C11052,57.0,Male,Madurai,Premium,287.32,13.53,274,46,1,53,Auto Pay,Average,0,Android,No,4.6
+C10672,58.0,Female,Madurai,Premium,2309.59,10.12,313,52,1,66,Net Banking,Excellent,0,Android,Yes,4.2
+C10183,,Male,Madurai,Standard,623.26,9.14,341,44,2,22,Credit Card,Good,3,Android,No,3.9
+C11120,22.0,Female,Coimbatore,Unlimited,1296.06,12.29,123,38,1,84,Auto Pay,Average,0,Android,No,3.8
+C10968,28.0,Female,Coimbatore,Basic,1754.72,14.78,1086,33,0,38,UPI,Excellent,3,Android,Yes,2.6
+C11001,30.0,Male,Chennai,Standard,1034.83,10.7,136,43,0,80,UPI,Average,1,Feature Phone,No,3.9
+C10347,52.0,Female,Trichy,Basic,,54.37,909,40,2,41,UPI,Average,0,Android,No,4.0
+C10489,33.0,Female,Hyderabad,Premium,2237.67,22.57,531,52,3,60,UPI,Good,3,Android,Yes,1.9
+C11007,26.0,Male,Hyderabad,Basic,2336.63,31.17,282,46,1,61,Auto Pay,Good,1,Android,No,2.4
+C10323,38.0,Male,Chennai,Standard,2364.39,27.12,314,49,2,52,Credit Card,Average,2,iPhone,Yes,2.6
+C10879,31.0,Female,Trichy,Standard,283.44,18.31,283,37,1,37,Net Banking,Poor,3,iPhone,No,2.4
+C10503,54.0,Male,Chennai,Standard,2443.29,11.98,135,47,4,19,Auto Pay,Good,3,Android,No,3.2
+C11010,28.0,Female,Kochi,Standard,1897.66,6.27,412,42,0,84,UPI,Average,3,Android,No,4.2
+C10825,48.0,Female,Coimbatore,Standard,1824.19,19.62,232,34,3,88,Debit Card,Excellent,0,iPhone,No,2.6
+C10971,62.0,Male,Salem,Standard,1938.84,7.02,587,46,0,9,UPI,Excellent,2,Android,Yes,2.9
+C10602,,Female,Kochi,Basic,1332.8,11.93,371,49,0,70,Net Banking,Good,2,Android,No,3.8
+C10989,53.0,Female,Hyderabad,Unlimited,2077.31,14.07,712,47,2,24,Net Banking,Good,1,Android,No,3.8
+C10807,21.0,Female,Kochi,Premium,1690.47,33.09,278,39,1,18,Debit Card,Excellent,2,Android,Yes,3.3
+C10685,25.0,Male,,Basic,503.22,10.94,57,48,4,74,Net Banking,Excellent,1,Feature Phone,Yes,2.7
+C10132,64.0,Female,Salem,Basic,1131.47,21.13,237,39,1,31,UPI,Poor,2,Android,No,2.2
+C10700,44.0,Male,Bengaluru,Unlimited,987.74,10.62,224,49,3,89,UPI,Good,1,Android,No,2.6
+C10831,21.0,Female,Salem,Premium,939.76,2.3,398,42,0,95,Debit Card,Good,1,Android,No,4.0
+C10537,53.0,Female,Madurai,Basic,1162.0,4.61,487,46,2,37,Auto Pay,Good,2,Android,No,3.3
+C10216,61.0,Other,Mumbai,Basic,764.45,22.89,113,47,1,90,Credit Card,Good,1,Android,No,3.8
+C10516,63.0,Male,Madurai,Unlimited,1724.24,22.63,247,35,1,52,Net Banking,Excellent,4,iPhone,No,3.3
+C10061,57.0,Male,Pune,Standard,476.03,18.92,1027,56,3,8,UPI,Average,3,Android,Yes,3.2
+C10917,35.0,Female,Chennai,Standard,963.58,11.96,371,40,2,2,Auto Pay,Poor,0,iPhone,No,2.8
+C10455,33.0,Female,Kochi,Standard,918.71,12.92,348,34,0,77,Debit Card,Good,1,Android,No,4.9
+C10200,29.0,Male,Pune,Standard,2406.52,17.13,97,59,0,50,UPI,Good,2,Feature Phone,No,3.5
+C11119,44.0,Male,Salem,Premium,1430.75,19.72,264,52,0,82,UPI,Average,1,iPhone,No,5.0
+C11160,40.0,Male,Trichy,Basic,231.65,26.71,266,42,0,91,Net Banking,Good,0,iPhone,No,4.0
+C11109,21.0,Male,Coimbatore,Standard,508.2,11.89,356,43,2,30,UPI,Good,0,Android,No,3.9
+C10652,,Male,Salem,Standard,290.57,18.79,484,54,3,3,Debit Card,Average,2,iPhone,No,3.1
+C10039,24.0,Female,Chennai,Standard,1878.51,16.77,451,40,2,58,Credit Card,Average,3,Android,No,3.3
+C10679,40.0,Female,Chennai,Standard,1660.98,27.13,151,48,4,13,Auto Pay,Excellent,5,iPhone,Yes,1.7
+C10507,50.0,Male,Trichy,Unlimited,1396.25,24.43,300,47,1,63,UPI,Average,3,Android,No,3.7
+C10110,59.0,Female,Chennai,Unlimited,528.98,17.71,27,46,0,79,Auto Pay,Excellent,2,Android,No,3.4
+C10073,53.0,Male,Madurai,Unlimited,1120.62,27.76,146,43,1,54,Auto Pay,Good,1,Feature Phone,No,3.7
+C10842,35.0,Male,Bengaluru,Premium,1869.0,6.78,205,46,0,63,UPI,Good,2,Android,No,4.6
+C10406,23.0,Female,Bengaluru,Unlimited,1359.25,12.24,304,47,3,46,UPI,Good,2,Android,No,2.7
+C10245,49.0,Female,Coimbatore,Premium,1456.94,7.17,80,43,0,85,Net Banking,Excellent,2,iPhone,No,4.1
+C10111,56.0,Female,Trichy,Basic,547.32,12.98,220,41,0,14,Auto Pay,Average,1,iPhone,No,4.6
+C10434,43.0,Female,Mumbai,Premium,2170.63,20.83,851,44,3,34,UPI,Excellent,3,Android,No,2.8
+C10981,29.0,Male,Kochi,Basic,498.81,6.9,304,29,4,91,Auto Pay,Good,2,Android,Yes,1.9
+C10729,42.0,Male,Bengaluru,Standard,2306.93,23.58,601,46,3,17,Credit Card,Good,1,iPhone,Yes,3.4
+C10625,42.0,Female,Madurai,Basic,2163.07,9.24,210,52,2,78,Auto Pay,Good,3,iPhone,Yes,2.4
+C10154,56.0,Male,Hyderabad,Standard,1216.93,7.34,278,38,0,66,Debit Card,Excellent,2,Android,Yes,3.6
+C10716,19.0,Male,Bengaluru,Standard,482.47,10.33,260,46,1,63,UPI,Average,4,Android,No,1.6
+C10642,45.0,Female,Hyderabad,Premium,912.71,12.33,303,43,1,4,UPI,Average,2,iPhone,No,2.7
+C10046,31.0,Female,Salem,Premium,1023.83,26.13,387,27,1,28,Net Banking,Excellent,3,iPhone,No,3.6
+C10799,50.0,Male,Chennai,Basic,551.23,31.0,587,46,0,76,UPI,Good,1,iPhone,No,4.5
+C10846,38.0,Male,Madurai,Premium,1497.16,4.83,395,42,3,73,Net Banking,Excellent,2,Feature Phone,No,3.0
+C11086,54.0,Female,Trichy,Standard,884.08,26.78,141,49,0,45,Debit Card,Excellent,0,Android,Yes,4.0
+C10314,63.0,Female,Kochi,Standard,1577.39,29.16,322,55,1,53,Net Banking,Average,3,Feature Phone,No,4.0
+C10321,44.0,Male,Coimbatore,Basic,254.08,22.99,244,42,1,71,Debit Card,Good,2,Feature Phone,No,3.7
+C10173,37.0,Other,Coimbatore,Standard,624.13,13.65,445,47,1,87,Net Banking,Good,3,Android,Yes,3.2
+C11079,47.0,Female,Bengaluru,Basic,1378.02,8.54,366,46,1,36,Net Banking,Excellent,1,Android,Yes,4.1
+C10292,35.0,Female,Coimbatore,Standard,1564.7,,351,36,2,85,,Average,2,Android,No,2.9
+C10814,22.0,Male,Bengaluru,Standard,1104.36,14.3,600,58,0,59,UPI,Good,2,Android,No,3.9
+C10175,28.0,Male,Pune,Basic,1589.03,25.37,333,28,2,26,UPI,Excellent,1,iPhone,No,3.8
+C10124,61.0,Male,Mumbai,Premium,836.26,7.32,269,53,1,88,Debit Card,Average,2,iPhone,Yes,3.8
+C10582,38.0,Male,Hyderabad,Premium,1823.66,7.7,186,57,0,71,UPI,Good,2,iPhone,Yes,3.7
+C10626,62.0,Other,Pune,Standard,229.43,5.05,621,40,3,52,UPI,Good,3,iPhone,No,2.9
+C10040,38.0,Male,Trichy,Unlimited,1038.09,12.36,338,50,1,64,UPI,Average,1,Android,No,2.7
+C11124,57.0,Female,,Standard,971.38,28.29,320,43,2,60,Debit Card,Good,3,iPhone,No,3.4
+C10904,39.0,Female,Salem,Premium,282.86,28.15,182,43,1,66,Debit Card,Good,3,iPhone,No,2.9
+C11117,43.0,Female,Hyderabad,Basic,2253.6,22.73,264,42,3,46,UPI,Average,2,Feature Phone,Yes,2.0
+C10284,55.0,Female,Hyderabad,Standard,2285.2,18.22,273,52,0,24,Credit Card,,1,Feature Phone,No,3.8
+C11083,46.0,Male,Madurai,Premium,900.28,14.46,457,44,1,23,UPI,Good,1,Android,Yes,3.6
+C10235,33.0,Male,Chennai,Basic,2399.46,44.65,217,35,4,38,Debit Card,Excellent,0,Android,No,3.2
+C10338,63.0,Female,Mumbai,Premium,2062.37,10.55,293,42,3,33,UPI,Good,2,Android,Yes,2.3
+C10150,21.0,Male,Hyderabad,Premium,1577.76,8.61,79,45,2,19,UPI,Good,1,Android,No,2.4
+C10404,39.0,Female,Hyderabad,Standard,1521.64,12.39,310,44,2,1,Net Banking,Good,4,Android,Yes,2.3
+C10267,29.0,Male,Coimbatore,Basic,2048.58,16.12,205,46,2,15,Credit Card,Average,2,Android,Yes,2.6
+C11080,56.0,Male,Mumbai,Basic,868.02,17.65,406,39,0,3,UPI,Excellent,3,Android,No,3.4
+C10205,34.0,Female,Hyderabad,Unlimited,1443.92,5.62,721,50,0,61,Credit Card,Average,1,Android,No,4.1
+C10361,41.0,Male,Kochi,Basic,1692.57,8.09,361,46,3,79,UPI,Good,0,iPhone,Yes,2.9
+C11051,,Other,Madurai,Premium,1720.09,9.28,404,31,1,93,UPI,,2,iPhone,No,4.0
+C10580,29.0,Male,Coimbatore,Standard,2171.32,3.25,147,28,1,35,UPI,Average,3,iPhone,Yes,3.3
+C10177,,Female,Trichy,Standard,1402.82,5.87,280,48,1,74,Auto Pay,Good,0,Android,No,4.0
+C11138,42.0,Male,Chennai,Premium,325.42,20.02,30,44,3,62,UPI,Excellent,1,iPhone,No,3.9
+C10768,25.0,Male,Bengaluru,Standard,1234.81,15.47,630,48,1,18,Net Banking,Good,2,Android,Yes,2.5
+C10431,45.0,Male,Bengaluru,Premium,2212.62,11.14,1014,49,1,61,Credit Card,Average,2,Feature Phone,No,3.6
+C10148,56.0,Female,Chennai,Basic,1075.19,15.31,90,35,0,55,Net Banking,Good,1,Android,No,4.1
+C10509,27.0,Male,Hyderabad,Basic,2222.8,6.9,326,47,1,95,Auto Pay,Excellent,1,iPhone,Yes,4.3
+C10737,18.0,Male,Chennai,Basic,2225.06,19.77,317,37,2,42,Credit Card,Good,2,Android,Yes,2.8
+C10902,34.0,Female,Salem,Premium,1525.66,8.78,249,48,1,89,Auto Pay,Excellent,2,Android,No,3.1
+C10376,56.0,Female,Madurai,Premium,2222.43,19.43,418,49,1,47,Auto Pay,Average,2,iPhone,No,4.2
+C10687,29.0,Male,Coimbatore,Basic,745.21,10.91,594,38,2,94,Auto Pay,Good,3,iPhone,Yes,3.3
+C11118,60.0,Female,Mumbai,Standard,1194.53,11.96,737,52,1,90,UPI,Excellent,0,iPhone,No,3.1
+C10596,60.0,Male,Bengaluru,Standard,1476.76,9.78,297,42,1,51,UPI,Excellent,2,Android,No,4.4
+C10293,63.0,Female,Salem,Premium,1522.86,16.02,213,43,2,3,Debit Card,Good,3,Android,Yes,2.9
+C10583,53.0,Female,Mumbai,Unlimited,993.83,24.74,107,57,3,71,UPI,Poor,0,iPhone,No,2.2
+C10091,46.0,Male,Bengaluru,Basic,976.59,40.0,117,60,0,52,Auto Pay,Good,1,Android,No,3.6
+C11060,42.0,Male,Mumbai,Standard,2033.95,31.1,384,56,3,34,Credit Card,Poor,2,Feature Phone,No,1.3
+C10740,45.0,Female,Kochi,Basic,1268.58,18.01,433,41,3,46,Credit Card,Excellent,0,Android,No,3.0
+C10595,46.0,Female,Trichy,Premium,629.39,26.69,97,59,1,83,Debit Card,Average,1,Feature Phone,No,3.5
+C10529,24.0,Female,Pune,Unlimited,936.97,18.26,136,44,1,69,Debit Card,Good,4,Android,No,1.9
+C10069,43.0,Male,Trichy,Unlimited,1712.64,4.21,190,46,1,9,UPI,Excellent,2,Feature Phone,No,3.4
+C10381,42.0,Male,Chennai,Standard,706.5,15.08,97,36,0,94,Net Banking,Average,2,Android,No,3.7
+C10853,63.0,Female,Mumbai,Premium,2320.99,42.23,293,43,1,58,Credit Card,Excellent,2,Android,No,3.8
+C11045,62.0,Female,Hyderabad,Standard,1163.47,9.13,317,34,0,92,Debit Card,Good,0,iPhone,No,4.2
+C10370,43.0,Male,Bengaluru,Premium,1723.96,13.35,538,52,0,70,Net Banking,Excellent,1,Android,No,3.6
+C10129,18.0,Male,Hyderabad,Unlimited,606.45,20.34,184,34,1,89,Credit Card,Good,2,iPhone,No,2.8
+C10460,45.0,Female,Salem,Premium,1757.76,6.76,349,46,1,64,Debit Card,Excellent,1,iPhone,No,4.6
+C10538,27.0,Male,Pune,Basic,704.16,30.21,473,42,2,27,UPI,Average,2,iPhone,Yes,3.3
+C10071,51.0,Male,Bengaluru,Basic,1238.0,20.21,306,42,2,83,UPI,Excellent,1,Android,Yes,2.9
+C10982,64.0,Male,Pune,Standard,667.13,13.26,146,52,1,92,Debit Card,Good,0,Android,No,3.8
+C11024,52.0,Male,Coimbatore,Basic,2378.68,30.95,192,45,0,51,Net Banking,Good,2,Android,Yes,3.4
+C10958,37.0,Female,,Basic,1133.76,23.26,369,46,0,46,UPI,Excellent,1,Android,No,3.9
+C10918,64.0,Female,,Premium,924.73,6.04,310,45,1,85,Debit Card,Excellent,5,Android,No,3.0
+C11097,30.0,Female,Pune,Premium,2248.62,6.96,380,46,0,44,Auto Pay,Good,5,Android,No,3.9
+C10906,61.0,Male,Mumbai,Premium,2117.58,6.11,208,57,1,81,Credit Card,Excellent,2,Android,No,3.5
+C10120,40.0,Male,Mumbai,Premium,1295.73,7.83,439,52,1,30,,Good,1,Android,Yes,3.8
+C11102,41.0,Male,Coimbatore,Premium,421.4,7.66,862,40,0,34,UPI,Excellent,2,Android,No,4.3
+C10965,55.0,Male,Chennai,Premium,663.13,24.39,331,35,2,72,UPI,Good,3,Android,No,3.3
+C10427,47.0,Male,Mumbai,Standard,449.73,13.04,185,48,2,57,Debit Card,Average,2,Android,No,3.8
+C10184,20.0,Female,Hyderabad,Premium,664.28,15.82,184,59,0,17,Debit Card,Excellent,0,Android,No,4.3
+C10535,42.0,Female,Madurai,Standard,324.89,18.35,221,43,1,61,UPI,Excellent,1,Android,No,3.1
+C10576,64.0,Female,Hyderabad,Basic,1934.51,19.52,401,41,1,25,UPI,,1,Feature Phone,No,2.9
+C11150,59.0,Male,Chennai,Premium,969.22,14.89,249,37,1,60,Debit Card,Poor,3,Android,No,2.8
+C10345,63.0,Female,Madurai,Premium,655.88,11.3,379,41,3,53,Auto Pay,Excellent,3,iPhone,Yes,2.8
+C10940,23.0,Male,Kochi,Premium,1455.74,26.97,263,49,2,3,Net Banking,Poor,2,iPhone,No,1.6
+C11182,28.0,Female,Chennai,Standard,1974.95,29.54,344,43,3,5,Debit Card,Good,3,iPhone,Yes,1.8
+C10505,20.0,Female,Salem,Premium,1020.54,12.13,173,33,1,61,Credit Card,Good,0,Android,No,4.3
+C10038,54.0,Female,Hyderabad,Basic,1540.2,16.73,245,43,2,74,Net Banking,Good,2,Android,No,2.3
+C10423,57.0,Female,Bengaluru,Basic,1065.36,10.06,316,38,1,44,UPI,Excellent,0,Android,No,4.1
+C10044,21.0,Male,Coimbatore,Basic,1813.0,26.2,757,54,1,39,UPI,Good,1,iPhone,No,4.4
+C11176,27.0,Female,Chennai,Standard,1449.71,12.79,302,59,1,56,UPI,Excellent,1,iPhone,No,4.6
+C11006,54.0,Female,Hyderabad,Premium,1959.23,43.66,485,41,1,24,Debit Card,Good,1,Android,Yes,4.2
+C10632,61.0,Female,Hyderabad,Premium,2241.84,24.5,553,41,3,81,Net Banking,Excellent,3,Android,No,2.7
+C10023,19.0,Male,Madurai,Basic,330.16,10.74,238,44,2,18,Credit Card,Excellent,1,Android,No,3.8
+C10413,61.0,Male,Madurai,Standard,818.07,8.62,217,46,2,92,UPI,Excellent,1,iPhone,Yes,3.0
+C10067,46.0,Female,Trichy,Standard,1362.64,12.94,295,47,0,93,Debit Card,Average,2,Android,No,3.9
+C10591,48.0,Female,Hyderabad,Standard,906.98,24.01,361,44,1,77,Debit Card,Good,3,Android,Yes,3.8
+C10363,64.0,Male,Pune,Basic,2035.91,13.52,87,36,1,38,Net Banking,Good,1,Android,No,3.3
+C10926,61.0,Male,Salem,Basic,1580.82,2.07,429,39,0,83,Credit Card,Excellent,2,Feature Phone,No,4.7
+C10264,43.0,Female,Madurai,Standard,1165.03,24.07,189,30,1,50,UPI,Good,0,Feature Phone,No,3.6
+C10217,43.0,Male,Hyderabad,Unlimited,1022.72,11.01,96,40,2,75,Auto Pay,Excellent,4,Android,No,2.6
+C11039,22.0,Female,Pune,Premium,331.0,12.77,964,42,2,46,UPI,Good,3,iPhone,No,2.7
+C10141,26.0,Female,Bengaluru,Basic,2458.8,,427,53,1,88,Credit Card,Good,2,iPhone,No,4.6
+C10439,18.0,Other,Salem,Premium,1768.84,15.9,708,44,2,93,Debit Card,Good,1,Android,No,3.3
+C11134,43.0,Male,Chennai,Standard,848.87,12.44,426,39,0,41,Auto Pay,Excellent,0,iPhone,No,3.9
+C10350,49.0,Male,Trichy,Unlimited,1179.95,4.71,1038,36,1,75,UPI,Average,1,iPhone,Yes,3.5
+C10644,,Female,Hyderabad,Premium,2030.81,12.69,99,48,0,1,UPI,Poor,3,Feature Phone,Yes,3.4
+C10080,57.0,Female,Coimbatore,Basic,1689.94,8.77,419,30,1,16,UPI,Good,1,iPhone,Yes,4.2
+C11100,53.0,Female,Salem,Basic,2461.54,11.52,44,50,1,80,UPI,Excellent,4,Android,No,4.2
+C11031,28.0,Female,Chennai,Unlimited,1906.45,19.78,86,41,1,75,Credit Card,Good,0,Android,No,3.2
+C10341,58.0,Female,Chennai,Standard,2299.0,19.96,303,46,5,39,UPI,Good,5,iPhone,Yes,2.2
+C11126,23.0,Female,Madurai,Basic,2330.89,18.38,457,37,2,79,Net Banking,Good,0,iPhone,Yes,4.5
+C10533,46.0,Male,Kochi,Basic,2316.59,20.18,124,36,1,84,Debit Card,Poor,1,Android,No,2.1
+C11108,64.0,Male,Hyderabad,Standard,1980.32,8.94,381,56,3,5,Auto Pay,Excellent,2,Android,Yes,3.0
+C10796,44.0,Female,Pune,Basic,1724.61,23.53,77,44,0,64,UPI,Average,3,Android,No,3.9
+C10166,59.0,Female,Bengaluru,Premium,1151.52,16.98,496,40,0,84,Debit Card,Poor,3,iPhone,No,3.4
+C10949,20.0,Female,Salem,Standard,1066.07,39.03,326,49,5,42,Debit Card,Good,2,iPhone,Yes,2.5
+C10311,29.0,Female,Kochi,Basic,505.32,22.77,436,43,2,34,UPI,Poor,0,Android,No,2.6
+C11196,23.0,Female,Chennai,Premium,798.95,10.33,216,33,2,24,Credit Card,Good,5,Feature Phone,Yes,2.4
+C10660,64.0,Male,Pune,Standard,2378.89,23.03,138,41,1,28,Debit Card,Excellent,1,Android,Yes,4.1
+C10996,22.0,Female,Bengaluru,Basic,506.5,13.21,351,48,0,87,Debit Card,Poor,2,iPhone,No,3.6
+C10165,19.0,Female,Bengaluru,Basic,1575.69,24.38,598,36,0,43,Net Banking,Poor,1,Feature Phone,No,3.5
+C10325,50.0,Female,Chennai,Premium,1283.79,12.5,182,47,2,28,Auto Pay,Good,0,Android,No,4.0
+C10669,37.0,Female,Chennai,Basic,640.64,24.37,431,49,1,75,Net Banking,Good,2,iPhone,No,3.4
+C10513,30.0,Female,Kochi,Premium,2459.3,7.2,96,41,1,40,Credit Card,Average,1,Android,Yes,2.7
+C10418,62.0,Male,Pune,Premium,1926.94,22.35,137,48,1,89,Credit Card,Average,2,Android,No,3.6
+C11073,25.0,Female,Bengaluru,Unlimited,2217.82,37.67,379,52,0,52,Credit Card,Good,3,iPhone,No,4.1
+C10188,44.0,Female,Coimbatore,Basic,1375.93,11.95,367,39,0,49,Auto Pay,Average,3,iPhone,No,4.0
+C10574,48.0,Male,Bengaluru,Standard,1310.43,26.61,142,51,2,30,UPI,Good,4,iPhone,Yes,2.0
+C10969,25.0,Male,Pune,Unlimited,891.22,12.5,224,46,1,78,Debit Card,Good,1,Android,No,3.5
+C10313,39.0,Female,Hyderabad,Premium,1162.93,10.28,455,42,1,78,Auto Pay,Average,2,iPhone,No,2.9
+C10250,56.0,Other,Salem,Basic,1003.86,5.05,241,36,1,22,UPI,Excellent,3,Android,Yes,2.6
+C10634,44.0,Female,,Premium,852.62,9.98,233,44,0,76,UPI,Good,2,Feature Phone,No,4.4
+C10358,20.0,Female,Chennai,Standard,1119.72,20.9,477,40,1,39,Credit Card,Poor,0,iPhone,No,3.0
+C11152,48.0,Female,Pune,Premium,2291.07,18.58,199,50,2,43,UPI,Good,2,Android,No,2.8
+C11032,58.0,Female,Chennai,Standard,724.16,18.16,446,46,0,85,Credit Card,Good,3,iPhone,No,3.3
+C10990,30.0,Female,Kochi,Standard,2235.05,17.09,117,50,3,24,Debit Card,Good,2,Android,Yes,3.4
+C10946,48.0,Female,Trichy,Premium,428.03,60.93,223,43,2,8,Net Banking,Good,0,Android,No,3.9
+C10934,62.0,Female,Bengaluru,Unlimited,930.49,4.84,51,42,2,88,UPI,Average,1,iPhone,No,4.0
+C10650,30.0,Male,Bengaluru,Unlimited,1066.94,16.35,425,44,2,7,Credit Card,Average,1,Android,Yes,4.0
+C10643,,Male,Bengaluru,Premium,1356.69,7.99,644,29,2,58,,Poor,1,Android,Yes,2.2
+C10255,45.0,Female,Hyderabad,Standard,2109.43,11.68,299,41,5,89,Credit Card,Good,2,Android,No,1.9
+C10810,27.0,Female,Kochi,Standard,473.58,18.58,595,41,1,67,Debit Card,Average,3,iPhone,Yes,2.7
+C11082,53.0,Female,Trichy,Premium,2172.07,31.47,374,40,1,82,Debit Card,Good,2,Feature Phone,Yes,3.7
+C10052,64.0,Female,Mumbai,Basic,1813.85,25.22,119,40,3,81,Net Banking,Good,1,Android,Yes,2.8
+C10871,52.0,Female,Bengaluru,Standard,,17.39,244,43,1,27,Credit Card,Good,2,iPhone,No,4.5
+C10997,40.0,Female,Hyderabad,Basic,2350.41,15.36,268,37,1,48,Auto Pay,Good,3,Android,No,2.9
+C10094,18.0,Other,Hyderabad,Premium,573.12,9.78,413,49,0,90,UPI,Excellent,0,iPhone,No,4.3
+C10656,61.0,Female,Pune,Standard,1009.35,6.32,251,56,1,62,UPI,Good,2,Feature Phone,No,2.9
+C10383,30.0,Male,Hyderabad,Premium,2174.96,,69,41,1,28,Auto Pay,Good,2,iPhone,Yes,3.6
+C10103,28.0,Female,Madurai,Standard,2045.93,26.6,241,50,1,9,Auto Pay,Good,1,iPhone,No,3.2
+C10466,29.0,Female,Salem,Premium,1292.59,25.59,379,54,2,3,UPI,Average,3,iPhone,Yes,3.3
+C10320,44.0,Female,Hyderabad,Standard,1888.6,6.35,288,50,1,45,Auto Pay,Good,3,iPhone,Yes,4.0
+C11023,29.0,Female,Coimbatore,Basic,614.51,23.7,290,48,6,60,UPI,Good,1,Feature Phone,Yes,2.4
+C10638,56.0,Female,Coimbatore,Basic,1451.48,11.37,181,52,0,1,Debit Card,Excellent,2,Android,Yes,4.1
+C10233,26.0,Male,Coimbatore,Premium,606.29,16.96,217,59,0,88,UPI,Good,1,Android,No,4.4
+C10548,41.0,Female,Salem,Basic,1189.23,17.4,466,45,1,3,Debit Card,Excellent,2,Android,No,4.4
+C11049,57.0,Male,Kochi,Unlimited,215.91,26.37,638,47,0,78,Credit Card,Average,1,Android,No,3.7
+C11142,60.0,Male,Madurai,Standard,1209.99,8.04,549,41,1,79,UPI,Excellent,1,Android,No,4.0
+C10938,39.0,Female,Hyderabad,Unlimited,2298.44,17.33,65,35,3,61,Net Banking,Good,1,Android,Yes,2.6
+C10519,40.0,Male,Hyderabad,Premium,1170.04,,300,51,1,24,Auto Pay,Excellent,4,Android,Yes,3.0
+C10928,59.0,Female,Kochi,Unlimited,854.97,3.55,533,49,0,20,Net Banking,Good,1,Android,No,4.0
+C10202,19.0,Female,Coimbatore,Premium,424.42,32.35,685,43,3,49,Net Banking,Good,3,Android,No,2.6
+C10212,50.0,Female,Kochi,Basic,589.74,7.18,116,56,0,24,Net Banking,Average,2,Feature Phone,No,3.8
+C10824,33.0,Female,Salem,Premium,579.65,13.83,324,44,2,75,Debit Card,Excellent,1,Android,No,3.3
+C10986,55.0,Female,Salem,Standard,247.32,5.82,855,37,1,19,Auto Pay,Good,0,Android,No,4.0
+C10901,56.0,Male,Coimbatore,Premium,341.48,,153,46,1,70,UPI,Good,1,Android,No,3.1
+C10504,29.0,Female,Bengaluru,Basic,1048.01,11.12,643,30,1,84,Auto Pay,Good,0,Android,No,3.7
+C10048,43.0,Female,Pune,Standard,247.15,28.17,78,48,1,41,Auto Pay,Good,0,Android,Yes,3.9
+C10540,26.0,Male,Chennai,Unlimited,2303.5,16.34,400,46,0,38,Auto Pay,Average,3,Android,No,3.7
+C10027,39.0,Female,Bengaluru,Standard,736.6,29.86,83,41,1,93,UPI,Good,2,iPhone,No,2.5
+C10555,42.0,Female,Coimbatore,Premium,453.39,35.55,634,36,5,20,Net Banking,Good,0,Android,No,2.9
+C10095,42.0,Female,Bengaluru,Unlimited,1888.04,,523,40,1,79,Net Banking,Excellent,2,Android,No,3.4
+C10804,34.0,Female,Chennai,Basic,2442.44,10.98,1223,48,0,62,Net Banking,Excellent,2,iPhone,Yes,3.9
+C10876,43.0,Male,Kochi,Standard,1354.46,6.54,479,45,1,93,UPI,Average,1,iPhone,Yes,4.1
+C10698,58.0,Male,Bengaluru,Premium,451.69,32.84,58,41,1,37,Debit Card,Good,1,Android,No,3.7
+C11128,40.0,Male,Chennai,Premium,1369.61,8.24,358,46,2,11,Debit Card,Excellent,0,Android,Yes,4.2
+C10831,21.0,Female,Salem,Premium,939.76,2.3,398,42,0,95,Debit Card,Good,1,Android,No,4.0
+C10339,23.0,Male,Pune,Premium,1187.25,16.3,178,27,1,62,UPI,Average,1,iPhone,Yes,3.7
+C11164,38.0,Female,Mumbai,Basic,1885.27,5.3,250,44,0,18,Debit Card,Excellent,1,Android,No,3.8
+C10297,33.0,Male,Pune,Unlimited,1510.66,12.81,270,40,1,88,Credit Card,Average,1,iPhone,No,4.5
+C10136,22.0,Male,Mumbai,Basic,1745.18,15.8,199,39,2,37,UPI,Good,2,Android,No,2.5
+C10794,47.0,Female,Salem,Standard,2446.75,15.85,504,49,3,38,,Average,2,Android,No,2.4
+C10399,49.0,Male,Coimbatore,Unlimited,2419.97,27.82,387,57,2,59,Debit Card,Good,1,Android,No,3.4
+C10224,55.0,Female,Trichy,Basic,375.54,15.7,159,53,0,42,Auto Pay,Good,2,Android,No,4.4
+C10675,48.0,Male,Hyderabad,Standard,2058.02,24.04,132,43,0,17,UPI,Good,2,Android,No,3.8
+C11147,22.0,Male,Mumbai,Premium,896.41,9.95,302,44,2,41,Credit Card,Good,4,iPhone,No,3.0
+C11030,25.0,Male,Kochi,Unlimited,1221.52,24.11,147,52,3,7,Credit Card,Excellent,1,Android,Yes,3.8
+C11139,50.0,Male,Coimbatore,Premium,1529.65,24.58,632,43,1,84,Credit Card,Good,2,Android,Yes,2.8
+C10149,49.0,Male,Madurai,Premium,324.5,20.77,220,38,1,85,Credit Card,Average,2,iPhone,No,3.8
+C10702,26.0,Female,Pune,Basic,257.3,35.55,98,51,3,86,Debit Card,Average,0,Android,No,2.8
+C10286,37.0,Female,Coimbatore,Premium,678.13,22.76,182,45,1,22,Auto Pay,Excellent,2,iPhone,No,3.2
+C10727,38.0,Male,Coimbatore,Premium,648.55,4.95,233,41,1,47,Net Banking,Average,4,Android,No,2.7
+C11195,24.0,Female,Mumbai,Premium,1359.36,37.95,752,50,2,83,UPI,,2,Android,No,3.2
+C10117,29.0,Male,Kochi,Standard,1548.24,4.61,546,59,0,40,UPI,Excellent,2,Android,Yes,4.7
+C10140,44.0,Female,,Premium,249.75,33.75,535,48,5,18,Credit Card,Average,1,Android,No,2.3
+C10886,20.0,Female,Chennai,Basic,1314.54,40.23,330,43,3,4,Debit Card,Average,0,Feature Phone,No,3.4
+C10287,52.0,Female,Mumbai,Standard,1016.51,6.68,223,46,0,44,Debit Card,Excellent,1,Android,No,5.0
+C10668,36.0,Female,Chennai,Basic,1642.64,6.42,538,41,1,62,UPI,Good,1,Android,No,3.2
+C10007,56.0,Male,Chennai,Standard,1878.57,12.48,611,36,1,59,UPI,Excellent,0,Android,No,3.5
+C10078,31.0,Male,Pune,Premium,1716.29,28.7,93,53,6,49,Net Banking,Average,1,Android,No,1.9
+C11056,50.0,Female,Coimbatore,Standard,1353.47,15.97,394,48,3,65,UPI,Excellent,3,iPhone,Yes,3.0
+C11057,40.0,Female,Bengaluru,Premium,2291.84,14.45,223,38,0,15,Auto Pay,Average,2,Android,Yes,4.4
+C10932,43.0,Male,Chennai,Premium,1941.89,16.73,287,34,1,32,Credit Card,Excellent,2,Feature Phone,No,3.6
+C10053,24.0,Female,Pune,Standard,961.11,4.23,746,46,3,46,Auto Pay,Good,3,iPhone,No,2.0
+C11013,55.0,Female,Coimbatore,Basic,849.36,38.59,665,47,1,58,Credit Card,Good,2,Android,No,3.3
+C10891,64.0,Female,Kochi,Unlimited,743.2,22.82,51,37,2,53,UPI,Average,1,iPhone,No,4.1
+C10279,50.0,Female,Kochi,Basic,1109.8,17.0,409,55,2,35,Net Banking,Average,2,Android,Yes,2.5
+C10395,32.0,Male,Mumbai,Standard,896.79,27.35,69,38,2,93,UPI,Poor,3,iPhone,No,2.4
+C10419,49.0,Female,Mumbai,Premium,2262.09,8.93,175,42,3,40,Net Banking,Average,0,iPhone,No,3.9
+C10780,64.0,Female,Salem,Standard,2423.72,21.83,232,48,1,50,Credit Card,Average,1,iPhone,No,3.8
+C10020,61.0,Female,Chennai,Unlimited,1545.8,24.19,221,46,1,17,Debit Card,Excellent,0,Android,No,4.0
+C10190,54.0,Male,Chennai,Premium,1079.4,16.03,522,44,3,38,Debit Card,Good,0,iPhone,No,3.9
+C10724,49.0,Female,Hyderabad,Basic,2233.3,15.5,404,33,4,50,UPI,Excellent,3,Android,Yes,2.8
+C10309,34.0,Female,Chennai,Basic,1602.25,9.03,169,45,1,80,Auto Pay,Good,2,Android,No,3.4
+C10612,44.0,Female,Bengaluru,Standard,480.75,10.32,417,48,2,57,Debit Card,Poor,1,Android,No,2.9
+C10316,55.0,Female,Mumbai,Standard,861.82,19.95,412,56,1,18,UPI,Excellent,2,Android,Yes,3.9
+C10417,23.0,Male,Trichy,Standard,1050.53,63.8,198,33,0,13,Debit Card,Good,3,Android,No,3.0
+C10261,52.0,Male,Madurai,Standard,2037.06,20.78,361,59,1,55,Credit Card,Good,1,Android,Yes,3.2
+C10933,51.0,Female,Chennai,Premium,847.41,20.56,200,47,1,51,Auto Pay,Good,1,Android,No,2.8
+C10128,52.0,Female,Madurai,Basic,2432.16,22.48,179,51,1,2,UPI,Average,0,iPhone,No,5.0
+C11077,46.0,Female,Coimbatore,Standard,324.6,12.36,261,42,1,87,,Good,3,Android,Yes,2.9
+C10978,37.0,Male,Kochi,Basic,539.3,20.88,312,44,1,63,Net Banking,Good,0,iPhone,Yes,4.0
+C10967,32.0,Female,Chennai,Basic,1947.92,39.33,23,53,3,55,Auto Pay,Good,0,Android,No,2.5
+C10329,22.0,Female,Chennai,Premium,1135.94,9.2,134,42,2,10,Auto Pay,Poor,5,Feature Phone,Yes,1.0
+C11072,24.0,Male,Coimbatore,Unlimited,1158.48,12.62,735,43,5,40,UPI,Good,2,Android,Yes,3.0
+C10256,42.0,Male,Bengaluru,Standard,715.71,16.95,474,47,1,65,Credit Card,Average,1,iPhone,No,2.9
+C10530,21.0,Male,Salem,Basic,1569.92,10.66,237,24,2,88,Auto Pay,Good,4,Android,Yes,2.6
+C10196,49.0,Male,Chennai,Standard,1518.89,38.76,213,53,1,11,UPI,Poor,1,iPhone,Yes,3.3
+C10302,50.0,Female,Pune,Unlimited,1993.49,13.06,240,55,0,14,UPI,Good,0,Android,No,4.2
+C10109,22.0,Female,Trichy,Premium,880.55,29.49,397,41,1,28,Credit Card,Good,1,Android,No,4.5
+C10135,18.0,Male,Hyderabad,Basic,2351.66,15.66,91,45,0,89,UPI,Excellent,0,Android,No,3.8
+C10014,57.0,Male,Chennai,Premium,2153.91,8.78,214,35,3,39,Auto Pay,Excellent,1,Android,Yes,4.0
+C10896,32.0,Male,Pune,Unlimited,2125.19,5.72,42,46,2,50,Net Banking,Good,5,Android,Yes,1.9
+C10860,43.0,Female,Pune,Unlimited,1325.51,2.92,328,44,0,48,Debit Card,Good,2,Android,No,3.5
+C10641,30.0,Male,Pune,Unlimited,584.4,14.4,390,50,2,1,UPI,Excellent,2,iPhone,No,3.0
+C10042,56.0,Male,Coimbatore,Premium,1271.22,4.56,626,44,2,29,Auto Pay,Good,3,iPhone,No,3.3
+C11071,20.0,Male,Pune,Basic,1463.35,25.59,120,56,1,57,Auto Pay,Excellent,2,Android,Yes,3.5
+C10756,26.0,Female,Madurai,Premium,2150.49,18.94,568,49,1,27,Debit Card,Poor,0,iPhone,No,2.8
+C10464,63.0,Male,Coimbatore,Standard,322.36,4.96,504,62,4,28,Credit Card,Average,0,Android,No,2.4
+C10943,47.0,Female,Mumbai,Basic,2158.71,8.8,131,58,1,76,Credit Card,,1,Android,No,4.2
+C10063,19.0,Male,Kochi,Standard,2428.44,18.57,106,37,0,59,UPI,Average,2,Android,No,3.6
+C10422,52.0,Male,Salem,Basic,2398.47,38.87,815,45,1,62,Auto Pay,Good,2,iPhone,No,4.2
+C10077,25.0,Male,Pune,Premium,1089.73,10.69,565,50,2,78,UPI,Average,3,iPhone,No,3.1
+C10769,56.0,Female,Hyderabad,Basic,1921.62,14.99,169,36,3,16,Credit Card,Excellent,0,Android,No,3.0
+C10491,33.0,Female,Salem,Standard,2410.26,23.82,477,48,2,51,Net Banking,Excellent,1,Android,Yes,4.0
+C10056,64.0,Female,Chennai,Basic,1938.38,3.63,408,49,1,45,UPI,Good,8,Android,No,1.9
+C10153,40.0,Female,Mumbai,Basic,696.57,12.69,320,38,1,79,Auto Pay,Average,3,Android,No,3.0
+C11034,31.0,Female,Bengaluru,Standard,888.84,14.65,194,44,0,15,Credit Card,Good,1,Android,No,5.0
+C10411,25.0,Female,Trichy,Premium,733.12,11.47,85,54,0,30,UPI,Average,3,iPhone,Yes,4.4
+C10784,38.0,Female,Coimbatore,Standard,1291.73,12.35,890,38,0,90,UPI,Poor,2,Android,No,3.2
+C10792,51.0,Female,Bengaluru,Premium,201.17,15.65,150,47,0,74,UPI,Excellent,1,Android,No,4.2
+C10348,50.0,Female,Trichy,Unlimited,1475.81,28.91,26,44,2,10,Auto Pay,Average,2,Android,Yes,2.6
+C10866,34.0,Male,Salem,Premium,626.29,12.89,158,40,0,74,UPI,Good,1,Android,No,4.5
+C10575,36.0,Male,Chennai,Premium,2468.86,44.79,169,51,1,30,UPI,Excellent,5,Android,No,2.9
+C10353,20.0,Female,Pune,Premium,400.91,20.29,283,42,2,3,Debit Card,Excellent,1,Android,No,2.6
+C10372,57.0,Male,Coimbatore,Premium,2342.0,4.01,727,46,1,8,Net Banking,Good,2,iPhone,Yes,3.1
+C11012,41.0,Male,Bengaluru,Standard,1089.61,10.16,178,46,2,40,UPI,Good,2,Android,No,3.8
+C10228,,Male,Hyderabad,Basic,1143.81,14.31,77,33,1,82,Debit Card,Average,2,Android,No,3.6
+C10285,57.0,Female,Salem,Basic,2479.53,9.35,446,44,2,92,UPI,Excellent,0,Android,No,3.4
+C11094,27.0,Female,Madurai,Premium,2471.69,16.6,468,42,1,58,UPI,Excellent,2,iPhone,Yes,3.4
+C11103,32.0,Male,Hyderabad,Basic,1856.05,13.05,114,43,0,46,Net Banking,Average,2,Android,Yes,5.0
+C10600,29.0,Male,Salem,Standard,2213.58,32.3,405,47,4,51,Debit Card,Excellent,2,Android,Yes,2.1
+C10681,29.0,Female,Trichy,Basic,540.57,9.03,667,38,2,23,Debit Card,Average,2,Android,No,4.1
+C10274,36.0,Male,Trichy,Basic,1125.3,8.4,167,49,2,59,Debit Card,Poor,2,Android,No,2.0
+C10152,54.0,Female,Bengaluru,Standard,1080.4,32.1,340,39,1,47,Debit Card,Good,1,iPhone,No,4.3
+C10172,61.0,Male,Mumbai,Premium,1513.7,14.61,228,44,1,66,Auto Pay,Excellent,3,iPhone,No,3.7
+C10730,39.0,Female,Hyderabad,Standard,953.03,28.75,306,45,0,22,UPI,Poor,1,Feature Phone,No,3.7
+C10089,62.0,Female,Coimbatore,Unlimited,1536.99,15.11,237,55,1,80,Auto Pay,Poor,0,iPhone,Yes,2.5
+C10733,50.0,Male,Salem,Standard,978.29,9.83,100,50,2,80,Auto Pay,Good,2,iPhone,No,3.3
+C10185,56.0,Female,Mumbai,Standard,1088.43,,217,47,3,84,UPI,Average,2,iPhone,No,2.9
+C10276,20.0,Female,Salem,Standard,2491.01,19.34,402,46,1,30,Debit Card,Excellent,1,Android,No,4.0
+C10849,22.0,Male,Trichy,Standard,1072.4,10.27,191,54,1,9,Auto Pay,Good,2,Android,No,4.5
+C10739,23.0,Female,Trichy,Unlimited,790.24,43.01,246,41,3,39,UPI,Good,2,iPhone,No,3.8
+C10105,25.0,Female,Salem,Unlimited,381.34,21.23,59,42,1,67,Credit Card,Average,4,Android,No,2.2
+C10728,43.0,Female,Coimbatore,Unlimited,581.33,11.48,94,42,0,3,Debit Card,Good,3,iPhone,No,3.4
+C10843,45.0,Female,Madurai,Basic,478.0,15.52,224,35,1,50,UPI,Poor,0,iPhone,No,3.3
+C10384,24.0,Male,Mumbai,Basic,1349.13,13.58,256,49,1,43,UPI,Excellent,0,Android,Yes,4.1
+C10948,26.0,Female,Salem,Standard,2415.48,32.09,258,59,2,11,Credit Card,Good,2,iPhone,No,3.4
+C10861,64.0,Female,Chennai,Standard,1414.91,18.45,301,46,1,32,,Good,2,Android,No,3.6
+C11084,55.0,Female,Pune,Standard,642.16,7.93,297,34,1,3,Credit Card,Good,3,Android,No,4.2
+C11014,52.0,Female,Coimbatore,Standard,899.33,58.54,87,46,3,72,Credit Card,Average,2,Feature Phone,No,2.8
+C11189,44.0,Other,Bengaluru,Unlimited,2025.23,6.31,244,38,1,47,UPI,Excellent,1,iPhone,No,4.9
+C10238,37.0,Male,Pune,Basic,924.34,21.56,393,45,0,73,Net Banking,Good,0,Android,No,4.6
+C11199,46.0,Male,Hyderabad,Premium,1374.52,18.69,420,41,1,1,Auto Pay,Good,2,Android,No,4.1
+C11017,22.0,Male,Coimbatore,Basic,1849.66,23.98,137,38,0,85,Auto Pay,Excellent,0,Feature Phone,No,5.0
+C10445,62.0,Male,Pune,Unlimited,916.75,13.49,309,34,1,84,Auto Pay,Good,1,iPhone,No,4.4
+C10662,33.0,Female,Pune,Standard,1955.09,,122,43,1,81,UPI,Good,2,iPhone,No,3.8
+C10271,26.0,Male,Pune,Basic,520.97,16.09,298,50,3,39,UPI,Good,0,Android,Yes,4.2
+C10463,47.0,Female,Bengaluru,Basic,587.37,12.04,255,35,2,46,Auto Pay,Good,4,iPhone,No,2.3
+C10690,25.0,Female,,Basic,1581.17,1.79,58,48,2,57,Credit Card,Good,3,Android,No,3.6
+C11186,35.0,Male,Pune,Standard,1192.16,17.12,189,41,2,52,Debit Card,Excellent,0,Feature Phone,No,3.6
+C10510,60.0,Other,Kochi,Unlimited,1361.7,20.01,438,38,2,35,UPI,Good,4,Android,Yes,2.3
+C10735,58.0,Female,Hyderabad,Premium,1896.23,,296,43,0,52,Net Banking,Good,3,Android,No,3.4
+C11175,26.0,Male,Chennai,Basic,721.7,15.64,319,48,3,40,Credit Card,Average,2,Android,No,2.8
+C10541,41.0,Female,Madurai,Premium,2139.92,9.6,383,42,3,60,Credit Card,Good,1,Android,No,3.4
+C10501,50.0,Male,Madurai,Basic,223.65,16.15,277,43,0,43,UPI,Good,2,Android,No,3.4
+C10964,47.0,Male,Coimbatore,Basic,911.29,22.07,136,34,4,12,Auto Pay,Good,1,iPhone,No,2.2
+C10992,20.0,Female,Mumbai,Basic,1437.24,25.79,216,39,0,81,Auto Pay,Excellent,4,Android,Yes,3.2
+C10816,23.0,Male,Chennai,Premium,2164.46,3.45,323,42,0,69,UPI,Average,5,Android,No,3.6
+C10517,19.0,Female,Trichy,Basic,1568.34,8.9,218,40,3,1,Auto Pay,Poor,4,Android,Yes,1.0
+C11149,25.0,Female,Coimbatore,Basic,2371.83,25.47,194,38,2,80,Net Banking,Excellent,3,iPhone,Yes,3.0
+C10195,32.0,Male,Hyderabad,Standard,362.66,17.07,332,41,0,72,,Good,3,Android,No,4.0
+C10945,47.0,Female,Hyderabad,Basic,1382.91,,828,60,1,48,Credit Card,Average,1,iPhone,No,4.5
+C10005,25.0,Female,Trichy,Premium,2206.58,9.71,400,47,6,50,Auto Pay,Excellent,3,Android,No,1.2
+C10179,50.0,Female,Coimbatore,Standard,1732.0,6.93,521,46,0,47,UPI,Good,2,Feature Phone,No,3.6
+C10408,60.0,Male,Mumbai,Unlimited,1182.17,1.37,185,54,0,41,Debit Card,Good,2,Android,Yes,4.0
+C10062,21.0,Male,Chennai,Standard,1543.45,12.25,70,44,4,70,Credit Card,Good,4,iPhone,No,2.8
+C10167,62.0,Female,Hyderabad,Standard,2402.28,16.59,279,52,1,29,Net Banking,Excellent,1,iPhone,No,3.9
+C10240,36.0,Male,Mumbai,Basic,743.93,26.47,134,41,0,86,Credit Card,Good,2,Android,No,4.3
+C10995,27.0,Female,Trichy,Premium,2107.0,14.76,216,50,1,41,Auto Pay,Excellent,0,iPhone,Yes,3.7
+C10380,52.0,Female,Chennai,Standard,788.24,19.41,298,39,2,12,Debit Card,Average,4,Android,Yes,2.6
+C10993,50.0,Female,Salem,Standard,2299.43,14.55,183,34,2,18,Credit Card,Good,1,Android,No,3.8
+C10623,34.0,Female,Madurai,Unlimited,2176.18,19.88,230,48,1,16,Credit Card,Excellent,2,Android,No,4.3
+C10551,54.0,Male,Trichy,Standard,1001.31,19.78,81,41,1,30,Credit Card,Good,3,Android,Yes,3.5
+C10839,36.0,Male,Madurai,Basic,1412.45,21.15,128,47,1,21,Net Banking,Poor,2,Android,No,2.8
+C10098,41.0,Male,Chennai,Premium,1469.44,8.22,335,51,1,41,Net Banking,Excellent,5,Android,No,3.1
+C10158,46.0,Female,Trichy,Standard,1551.4,27.49,214,55,2,57,UPI,Good,2,Feature Phone,No,3.2
+C11104,46.0,Female,Hyderabad,Premium,847.2,11.84,466,36,3,88,Credit Card,,1,Feature Phone,Yes,3.0
+C10851,29.0,Female,Trichy,Basic,2429.58,18.29,356,46,0,10,Auto Pay,Good,0,Android,No,5.0
+C10485,18.0,Male,Kochi,Premium,2221.34,16.07,238,46,0,31,Debit Card,Good,1,Android,No,4.1
+C11191,60.0,Female,Coimbatore,Premium,985.76,20.21,241,50,3,73,Auto Pay,Poor,1,iPhone,No,2.7
+C10401,39.0,Male,Madurai,Standard,499.65,7.39,243,52,0,68,Credit Card,Average,0,Android,No,4.5
+C10852,43.0,Male,Coimbatore,Unlimited,1872.55,9.9,210,53,1,46,Auto Pay,Good,1,iPhone,Yes,4.1
+C10774,18.0,Female,Madurai,Basic,1454.1,28.55,149,46,0,84,Net Banking,Excellent,3,iPhone,No,4.5
+C10248,50.0,Female,Bengaluru,Standard,366.29,28.81,116,47,1,37,Debit Card,Poor,1,Android,No,3.2
+C10941,23.0,Female,Mumbai,Premium,773.41,5.0,155,48,1,89,Credit Card,Average,3,iPhone,No,2.8
+C10988,28.0,Male,Mumbai,Standard,1224.4,28.38,300,42,1,19,Net Banking,Average,4,Android,Yes,3.7
+C10586,56.0,Other,Chennai,Premium,738.94,4.54,613,48,4,43,Credit Card,Excellent,2,Android,No,2.4
+C10680,28.0,Male,Trichy,Premium,1017.7,14.37,163,52,1,86,UPI,Good,2,iPhone,No,3.2
+C10447,33.0,Female,Trichy,Standard,2180.26,8.95,85,42,2,60,UPI,Excellent,1,iPhone,No,3.3
+C10571,,Female,Trichy,Standard,1988.51,10.78,371,34,2,10,,Good,2,iPhone,No,4.0
+C11111,62.0,Male,Madurai,Basic,1592.56,27.3,73,42,3,5,Net Banking,Excellent,2,Android,No,2.9
+C10905,43.0,Male,Mumbai,Standard,320.31,6.71,422,38,0,71,Credit Card,Excellent,1,Android,No,5.0
+C10777,47.0,Female,Mumbai,Standard,1920.8,26.42,495,40,1,81,UPI,Excellent,1,Android,No,4.3
+C10850,58.0,Female,Kochi,Unlimited,1618.55,3.85,304,54,0,65,UPI,Good,3,iPhone,No,3.7
+C10157,60.0,Male,Mumbai,Standard,2099.58,6.7,388,46,1,28,Credit Card,Excellent,3,iPhone,No,3.6
+C10469,43.0,Female,Chennai,Basic,586.04,4.51,334,39,0,19,Auto Pay,Excellent,2,iPhone,Yes,4.0
+C11047,42.0,Male,Trichy,Unlimited,1143.68,20.47,317,44,2,66,Debit Card,Excellent,3,Android,No,3.2
+C10817,19.0,Female,Coimbatore,Unlimited,981.01,21.45,270,42,1,63,Auto Pay,Good,1,Android,No,3.3
+C10721,50.0,Female,Mumbai,Standard,672.33,10.49,318,40,0,92,Auto Pay,Excellent,2,Android,Yes,4.3
+C10500,50.0,Male,Madurai,Standard,519.28,17.09,286,44,1,82,Auto Pay,Average,1,Android,No,5.0
+C10029,42.0,Male,Bengaluru,Standard,2085.16,7.47,269,38,3,35,UPI,Excellent,7,Android,No,1.3
+C10715,42.0,Female,Pune,Premium,1311.88,30.13,483,49,2,75,UPI,Average,2,iPhone,No,3.8
+C10139,56.0,Male,Madurai,Premium,2385.23,22.93,428,37,3,34,Auto Pay,Average,2,iPhone,Yes,2.9
+C10617,55.0,Female,Trichy,Standard,636.3,27.03,412,48,2,36,Credit Card,Poor,1,Android,No,2.7
+C11021,26.0,Female,Kochi,Standard,1198.42,9.2,372,49,1,46,Credit Card,Good,1,iPhone,No,3.3
+C10805,22.0,Female,Salem,Basic,1518.2,9.84,350,46,1,87,Debit Card,Excellent,1,Android,No,4.2
+C10482,27.0,Male,Madurai,Premium,1742.33,10.3,263,50,1,29,UPI,Average,1,Feature Phone,Yes,3.2
+C10803,59.0,Female,Mumbai,Unlimited,1969.42,20.99,214,52,1,1,UPI,,2,Android,Yes,3.3
+C10875,31.0,Male,Coimbatore,Premium,2321.08,29.67,115,47,2,66,Auto Pay,Good,4,iPhone,No,1.7
+C10914,20.0,Male,Mumbai,Standard,1231.88,24.25,379,38,2,9,UPI,Average,4,Android,Yes,2.1
+C10101,25.0,Female,Pune,Basic,1526.06,16.8,233,46,4,28,Credit Card,Good,1,Feature Phone,No,2.6
+C10604,34.0,Female,Bengaluru,Unlimited,444.64,8.38,163,44,0,23,Net Banking,Average,3,Android,No,3.6
+C10102,41.0,Male,Madurai,Standard,993.61,14.62,212,57,1,47,Debit Card,Excellent,0,Android,No,5.0
+C10950,48.0,Male,Bengaluru,Standard,1586.39,12.73,386,40,0,91,Auto Pay,Average,2,Android,No,4.2
+C10669,37.0,Female,Chennai,Basic,640.64,24.37,431,49,1,75,Net Banking,Good,2,iPhone,No,3.4
+C11133,29.0,Female,Mumbai,Premium,1532.61,9.6,415,59,3,4,UPI,Good,2,iPhone,No,2.9
+C10959,45.0,Male,Bengaluru,Basic,2222.63,11.35,434,46,1,92,,Excellent,3,iPhone,Yes,3.4
+C10654,55.0,Male,Bengaluru,Basic,2396.99,17.78,376,38,1,26,UPI,Good,0,Android,No,4.4
+C10387,37.0,Female,Mumbai,Premium,1942.49,14.12,118,44,0,49,UPI,Excellent,2,iPhone,No,3.4
+C10011,28.0,Female,Mumbai,Standard,853.45,3.91,164,44,1,10,Debit Card,Good,0,Android,Yes,4.1
+C10960,28.0,Male,Trichy,Premium,1690.97,38.06,162,43,2,36,Auto Pay,Good,2,Android,No,2.5
+C10658,49.0,Female,Trichy,Premium,610.92,25.44,188,49,2,67,Auto Pay,Poor,0,Android,Yes,4.0
+C10931,23.0,Male,Pune,Standard,1307.64,14.87,573,39,1,87,UPI,Good,3,Android,No,3.4
+C10405,59.0,Female,Pune,Unlimited,674.68,17.92,203,46,0,54,UPI,Good,2,Android,No,3.9
+C11174,26.0,Female,Trichy,Standard,1586.46,5.14,93,50,2,66,Debit Card,Excellent,2,Android,No,4.7
+C10636,43.0,Male,Mumbai,Basic,,33.36,269,62,3,86,UPI,Good,1,Android,No,3.1
+C10565,53.0,Female,Trichy,Basic,1220.62,22.18,331,51,0,12,Auto Pay,Good,5,Android,Yes,2.9
+C11129,64.0,Male,Trichy,Standard,1240.5,17.22,432,41,2,91,Auto Pay,Average,2,iPhone,No,3.0
+C10709,63.0,Female,Kochi,Basic,384.34,9.53,208,50,4,43,UPI,Poor,1,Android,Yes,3.1
+C10113,45.0,Female,Madurai,Standard,1569.06,11.66,504,44,2,87,Debit Card,Good,4,iPhone,Yes,2.9
+C10772,20.0,Female,Mumbai,Standard,627.77,6.76,355,46,0,52,UPI,Excellent,0,Android,No,3.0
+C10174,47.0,Female,Chennai,Standard,336.05,8.42,339,46,2,90,Net Banking,Good,0,Android,No,4.6
+C10201,56.0,Male,Salem,Standard,311.0,15.86,308,38,0,89,Debit Card,Excellent,1,iPhone,Yes,4.0
+C10013,53.0,Female,Salem,Unlimited,,26.23,146,53,0,34,UPI,Average,2,iPhone,No,4.8
+C10171,61.0,Male,Salem,Basic,1638.0,14.72,285,59,4,60,Auto Pay,Poor,3,iPhone,Yes,1.8
+C10711,23.0,Female,Salem,Premium,884.35,25.19,702,39,2,3,UPI,Excellent,0,Android,No,3.4
+C10119,50.0,Male,Madurai,Standard,383.43,32.71,318,40,0,81,Auto Pay,Good,1,iPhone,No,3.6
+C11169,18.0,Female,Coimbatore,Basic,1131.98,12.08,472,44,0,42,Net Banking,Good,0,iPhone,No,4.8
+C10097,26.0,Male,Salem,Standard,333.7,12.85,109,50,2,4,Debit Card,Good,3,iPhone,No,3.2
+C10821,28.0,Male,Hyderabad,Standard,2148.36,18.39,581,38,2,6,UPI,Good,2,iPhone,No,3.4
+C10712,35.0,Female,Salem,Unlimited,405.45,12.17,687,54,0,41,Credit Card,Excellent,1,Android,No,4.3
+C10521,43.0,Female,Pune,Standard,649.14,32.25,396,41,0,7,Auto Pay,Average,1,Android,No,3.0
+C10003,32.0,Female,Trichy,Unlimited,1810.41,27.8,144,53,3,50,UPI,Good,2,Android,Yes,2.9
+C10526,43.0,Female,Chennai,Unlimited,789.29,17.97,345,50,2,63,Credit Card,Average,2,Android,No,3.4
+C10391,33.0,Male,Kochi,Basic,681.29,6.03,120,36,0,27,Credit Card,Excellent,2,Android,No,4.1
+C10318,62.0,Male,Hyderabad,Basic,1340.35,29.19,316,32,1,7,UPI,Average,1,Android,Yes,3.1
+C10382,41.0,Female,Kochi,Basic,516.69,9.05,400,53,1,25,Credit Card,Excellent,0,Android,No,4.7
+C10424,33.0,Male,Coimbatore,Standard,979.25,,783,49,0,48,UPI,Poor,0,Android,No,2.9
+C10525,27.0,Female,Hyderabad,Basic,1252.47,20.45,119,35,1,20,UPI,Good,1,Android,No,4.0
+C10242,20.0,Female,Hyderabad,Basic,610.77,23.61,224,45,3,88,UPI,Excellent,0,Android,No,2.6
+C10787,28.0,Female,Mumbai,Premium,1825.74,4.72,425,42,1,42,Debit Card,Good,1,Android,Yes,2.6
+C11161,18.0,Male,Mumbai,Standard,791.55,5.87,263,38,0,5,Credit Card,Average,2,Android,No,4.2
+C11087,44.0,Male,Madurai,Premium,1993.11,22.86,510,47,1,17,Auto Pay,Good,1,Android,Yes,4.1
+C10398,19.0,Female,Hyderabad,Basic,1789.81,19.42,579,50,2,22,UPI,Average,2,Android,No,2.7
+C10397,51.0,Male,Trichy,Standard,1960.47,34.72,264,46,1,71,UPI,Average,0,Feature Phone,Yes,4.1
+C10477,27.0,Female,Salem,Standard,2105.03,11.56,282,43,0,50,Debit Card,Average,1,Android,No,3.5
+C10163,39.0,Female,Chennai,Standard,1651.36,,456,37,3,63,Net Banking,Average,1,Android,Yes,2.8
+C10559,34.0,Male,Chennai,Basic,322.81,18.83,105,47,1,39,UPI,Average,2,Android,No,3.5
+C10288,42.0,Male,Hyderabad,Premium,1738.2,18.33,463,38,4,32,Auto Pay,Average,2,Android,Yes,2.2
+C10435,40.0,Male,Trichy,Premium,1957.7,11.75,223,57,2,84,Credit Card,Good,5,Android,No,2.0
+C10129,18.0,Male,Hyderabad,Unlimited,606.45,20.34,184,34,1,89,Credit Card,Good,2,iPhone,No,2.8
+C10903,56.0,Female,Pune,Standard,473.18,2.16,365,44,1,42,Credit Card,Excellent,2,Android,No,3.4
+C10633,56.0,Female,Bengaluru,Basic,657.21,28.0,96,45,1,92,Credit Card,Average,0,iPhone,No,3.5
+C10550,49.0,Female,Salem,Standard,1377.5,39.77,431,59,3,85,Auto Pay,Excellent,2,iPhone,No,3.5
+C10961,21.0,Male,Pune,Premium,2267.27,,395,39,1,18,UPI,Good,3,iPhone,No,2.9
+C10493,45.0,Female,Bengaluru,Standard,1651.16,12.93,282,52,0,16,Net Banking,Excellent,2,Android,No,5.0
+C10628,53.0,Female,Madurai,Standard,1968.72,13.2,794,42,1,89,Credit Card,Good,1,iPhone,No,3.5
+C10552,29.0,Male,Madurai,Premium,1061.1,8.98,247,52,0,22,Debit Card,Good,1,Android,No,4.8
+C10865,60.0,Female,Pune,Basic,2050.9,9.07,180,40,1,6,Auto Pay,Average,0,iPhone,No,4.8
+C10568,36.0,Female,Salem,Basic,2180.33,18.61,596,35,1,17,UPI,Good,2,iPhone,No,2.7
+C10277,37.0,Female,Mumbai,Basic,510.0,17.64,227,46,2,4,UPI,Average,1,iPhone,Yes,3.1
+C10084,35.0,Female,Trichy,Premium,1691.16,24.0,269,41,4,8,Credit Card,Good,3,Android,Yes,2.6
+C10133,31.0,Female,Bengaluru,Basic,1386.45,9.31,240,36,0,10,Debit Card,Excellent,3,Android,Yes,2.8
+C10209,40.0,Male,Mumbai,Standard,2135.98,15.98,264,42,2,61,Auto Pay,,0,iPhone,No,4.8
+C11004,37.0,Male,Coimbatore,Basic,963.0,23.57,250,46,1,39,Debit Card,Average,0,Android,No,5.0
+C10883,43.0,Male,Bengaluru,Basic,226.61,9.15,251,44,3,90,Net Banking,Excellent,2,iPhone,No,3.4
+C10342,54.0,Female,Mumbai,Basic,1514.88,7.89,307,37,1,12,Debit Card,Average,2,Android,No,3.3
+C10169,45.0,Female,Pune,Premium,1590.71,3.75,130,64,1,3,UPI,Excellent,4,iPhone,Yes,3.4
+C10892,62.0,Male,Mumbai,Standard,1311.05,22.9,301,46,4,22,,Good,1,iPhone,Yes,2.6
+C10192,59.0,Male,Mumbai,Premium,533.25,12.82,492,52,0,28,Credit Card,Good,1,Android,No,4.6
+C11046,59.0,Male,Trichy,Basic,1811.52,25.5,199,50,3,3,UPI,Good,3,iPhone,Yes,2.6
+C10206,19.0,Female,Hyderabad,Unlimited,1683.82,9.88,1000,51,2,93,Debit Card,Good,1,iPhone,No,3.3
+C10386,62.0,Male,Bengaluru,Standard,748.85,20.58,331,54,1,47,UPI,Average,4,iPhone,No,3.5
+C10312,39.0,Female,Pune,Standard,800.07,8.59,297,42,4,80,Credit Card,Good,4,Android,Yes,2.5
+C10556,52.0,Male,Mumbai,Basic,280.86,13.06,160,32,3,19,Debit Card,Excellent,2,Android,Yes,3.1
+C10741,34.0,Female,Chennai,Basic,721.05,12.1,468,50,1,48,Net Banking,Excellent,2,Android,No,4.2
+C10134,20.0,Female,Salem,Standard,1534.48,25.26,90,53,2,70,Debit Card,Average,3,Android,Yes,3.2
+C10920,64.0,Male,Bengaluru,Standard,1042.64,23.38,630,42,4,60,UPI,Poor,3,Feature Phone,Yes,1.5
+C10187,25.0,Male,Madurai,Basic,1113.92,9.11,230,47,0,8,Net Banking,Average,3,iPhone,No,3.6
+C10270,49.0,Female,Bengaluru,Premium,1790.72,44.75,668,53,3,35,Auto Pay,Average,1,Feature Phone,No,3.6
+C10710,52.0,Male,Bengaluru,Unlimited,,39.16,259,39,0,53,UPI,Excellent,3,iPhone,No,3.3
+C10307,24.0,Female,Mumbai,Standard,2030.36,9.76,515,42,2,10,Net Banking,Excellent,2,Android,No,3.3
+C10090,,Female,Salem,Unlimited,1122.36,12.54,138,44,2,10,UPI,Average,1,Feature Phone,Yes,3.4
+C10083,62.0,Male,Pune,Premium,2362.16,14.28,427,42,0,88,UPI,Average,1,Android,Yes,4.1
+C10745,55.0,Female,Kochi,Unlimited,985.9,15.83,695,44,1,57,Credit Card,Poor,3,iPhone,No,2.3
+C10666,53.0,Male,Madurai,Premium,1982.04,5.72,59,46,0,8,,Good,1,Android,No,4.3
+C10579,52.0,Male,Hyderabad,Premium,2480.91,22.15,561,51,1,66,UPI,Excellent,3,iPhone,No,3.8
+C10609,57.0,Female,Mumbai,Premium,935.92,8.13,647,42,5,35,Credit Card,Excellent,1,iPhone,Yes,3.0
+C10520,34.0,Male,Chennai,Unlimited,2004.65,11.15,179,42,1,34,Auto Pay,Good,0,iPhone,No,4.5
+C10553,30.0,Male,Chennai,Basic,,22.94,81,41,1,19,UPI,Average,0,iPhone,No,4.4
+C10114,24.0,Male,,Basic,384.42,16.68,82,53,1,13,Debit Card,Excellent,2,Feature Phone,No,4.0
+C10629,23.0,Male,Mumbai,Basic,2349.03,13.67,302,56,0,95,Debit Card,Excellent,2,Android,No,3.1
+C10220,49.0,Male,Kochi,Unlimited,2381.66,22.04,566,51,0,16,UPI,Average,0,Android,No,3.8
+C10107,52.0,Male,Hyderabad,Premium,2287.44,5.16,132,44,0,69,Credit Card,Good,0,iPhone,No,4.8
+C10336,47.0,Female,Salem,Premium,2247.51,19.72,213,46,1,50,UPI,Poor,2,iPhone,No,2.8
+C10863,64.0,Male,Mumbai,Basic,1393.42,6.63,166,46,0,81,UPI,Good,0,iPhone,Yes,4.6
+C10394,40.0,Male,Salem,Standard,2348.45,29.78,65,25,4,75,Auto Pay,Good,2,Feature Phone,No,2.6
+C10924,25.0,Male,Salem,Basic,2430.17,27.33,271,37,1,2,Debit Card,Average,1,iPhone,Yes,3.8
+C10897,42.0,Female,Pune,Basic,750.59,40.31,196,28,3,16,Auto Pay,Excellent,3,Android,No,3.7
+C10480,51.0,Male,Bengaluru,Standard,441.42,17.01,265,44,3,51,Auto Pay,Average,0,iPhone,Yes,3.5
+C10058,31.0,Male,Mumbai,Premium,1147.24,7.28,596,62,1,28,Debit Card,Average,1,iPhone,No,3.2
+C10622,39.0,Male,Mumbai,Unlimited,767.01,8.7,58,51,3,93,Debit Card,Excellent,1,Android,No,2.8
+C11131,63.0,Male,Kochi,Standard,2404.41,43.32,263,39,1,95,Credit Card,Poor,3,Android,Yes,2.1
+C11037,38.0,Female,Coimbatore,Premium,1015.03,17.5,66,54,1,56,Net Banking,Excellent,2,Android,No,2.8
+C10028,61.0,Male,Kochi,Premium,1665.88,11.06,428,42,0,9,Net Banking,Excellent,2,Android,No,3.4
+C10809,34.0,Female,Madurai,Premium,2263.01,16.05,105,41,2,54,Debit Card,Excellent,1,Android,No,3.4
+C10952,54.0,Male,Salem,Basic,1770.16,30.36,312,38,2,19,Debit Card,Poor,2,iPhone,Yes,2.5
+C11114,48.0,Female,Bengaluru,Premium,2001.05,7.47,465,39,2,89,UPI,Good,0,iPhone,No,4.0
+C10416,21.0,Female,Mumbai,Unlimited,2290.28,26.64,438,51,0,61,,Good,1,Android,No,3.3
+C10939,38.0,Male,Pune,Basic,1602.83,7.8,100,38,1,62,Credit Card,Good,3,iPhone,No,4.2
+C10847,23.0,Female,Mumbai,Standard,1580.34,11.46,553,45,1,44,Net Banking,Good,2,Android,Yes,3.7
+C10983,18.0,Male,Bengaluru,Standard,1967.84,22.51,476,48,0,20,,Good,4,Android,Yes,3.4
+C10036,61.0,Male,Kochi,Premium,2264.25,7.37,133,37,0,61,Debit Card,Excellent,2,Android,No,2.6
+C10942,21.0,Male,Madurai,Premium,988.53,18.25,307,47,0,92,Auto Pay,Good,0,Android,No,5.0
+C10771,51.0,Female,Trichy,Standard,1658.91,15.3,443,49,1,69,UPI,Good,2,Android,Yes,2.6
+C10280,41.0,Male,Coimbatore,Standard,504.92,42.67,414,43,1,74,Auto Pay,Poor,1,Android,Yes,3.4
+C10331,21.0,Male,Trichy,Basic,2261.12,13.99,212,33,4,48,Credit Card,Good,3,iPhone,Yes,3.7
+C10160,30.0,Female,Chennai,Unlimited,2038.5,26.67,333,47,2,15,Credit Card,Good,2,Android,No,2.9
+C10683,49.0,Female,Kochi,Standard,2072.08,13.39,313,51,3,43,Credit Card,Poor,0,iPhone,No,2.4
+C10527,51.0,Male,Hyderabad,Premium,1928.86,26.92,485,35,1,80,UPI,Good,0,Android,No,3.7
+C10599,64.0,Female,Hyderabad,Standard,1065.79,14.15,140,38,4,2,Debit Card,Good,3,Android,Yes,2.4
+C10496,37.0,Female,Coimbatore,Standard,2365.73,22.16,392,46,0,84,Auto Pay,Excellent,0,Android,No,4.2
+C10125,57.0,Male,Coimbatore,Basic,2363.02,20.51,658,59,3,48,Credit Card,Average,1,Android,No,2.3
+C11135,30.0,Female,Kochi,Standard,840.72,15.05,187,44,0,59,UPI,Excellent,1,Android,No,4.7
+C11125,55.0,Male,Salem,Standard,1613.66,23.94,148,39,1,74,UPI,Good,1,iPhone,No,4.8
+C11091,19.0,Male,Mumbai,Standard,964.28,27.33,105,40,4,7,Debit Card,Average,0,iPhone,Yes,3.0
+C10854,51.0,Male,Madurai,Standard,1952.09,5.25,651,31,0,37,UPI,Poor,2,iPhone,Yes,3.2
+C10118,51.0,Female,Trichy,Standard,2104.41,23.8,266,48,1,72,UPI,Average,1,Android,No,3.5
+C11159,28.0,Male,Kochi,Premium,1435.34,15.72,195,44,1,49,Credit Card,Excellent,0,Android,No,4.1
+C10156,32.0,Male,Kochi,Standard,2086.12,31.93,326,42,2,84,UPI,Good,3,Android,No,2.8
+C11058,32.0,Female,Coimbatore,Standard,1848.7,31.64,464,36,2,84,Credit Card,Average,2,iPhone,No,3.3
+C10433,54.0,Female,Hyderabad,Basic,2174.01,16.17,202,51,3,54,Credit Card,Good,1,iPhone,No,2.8
+C10747,40.0,Male,Madurai,Standard,1222.16,24.96,107,33,2,9,Credit Card,Excellent,1,Android,No,4.2
+C10459,31.0,Male,Chennai,Premium,1905.55,3.86,234,37,0,93,Credit Card,Poor,2,Android,Yes,3.8
+C10244,37.0,Male,Mumbai,Standard,1757.36,35.27,384,38,0,2,Debit Card,Good,4,Android,No,4.2
+C10880,41.0,Other,Madurai,Standard,1290.97,16.27,433,38,1,42,Net Banking,Good,1,iPhone,No,4.2
+C10523,46.0,Male,Bengaluru,Basic,1691.12,35.11,153,47,1,11,Credit Card,Good,1,iPhone,No,3.6
+C10415,56.0,Male,Chennai,Basic,2000.79,40.17,469,56,4,89,UPI,Good,2,Android,No,2.9
+C11065,31.0,Male,Kochi,Premium,2422.42,12.77,237,40,1,2,Debit Card,Good,0,Android,No,3.3
+C10375,60.0,Female,Bengaluru,Standard,859.61,25.6,65,56,2,69,UPI,Good,0,iPhone,Yes,4.2
+C10354,35.0,Male,Hyderabad,Unlimited,594.21,9.44,341,53,1,57,UPI,Good,0,Android,No,3.9
+C10674,32.0,Female,Madurai,Standard,1637.5,17.86,400,50,2,13,UPI,Average,1,iPhone,Yes,2.9
+C10453,29.0,Male,Coimbatore,Unlimited,2066.48,20.11,426,54,1,61,Auto Pay,Excellent,0,iPhone,Yes,4.6
+C10615,46.0,Female,Chennai,Standard,361.23,19.11,276,37,1,88,Credit Card,Good,1,iPhone,Yes,3.8
+C10894,55.0,Female,Hyderabad,Standard,371.26,22.77,793,53,0,61,UPI,Good,1,Android,No,4.4
+C11027,57.0,Female,Mumbai,Basic,1938.24,6.51,325,43,5,48,Credit Card,Excellent,0,Android,Yes,3.5
+C10021,47.0,Male,Kochi,Basic,1444.16,7.52,199,53,1,71,Auto Pay,Good,1,Android,Yes,3.9
+C11009,26.0,Male,Trichy,Standard,2034.4,25.23,303,41,3,61,Debit Card,Excellent,2,Feature Phone,Yes,3.3
+C11132,60.0,Male,Bengaluru,Basic,527.47,19.34,379,41,1,50,Net Banking,Good,2,Android,No,2.7
+C10032,45.0,Male,Salem,Basic,,36.66,238,46,0,76,Net Banking,Good,1,Feature Phone,No,4.8
+C10749,54.0,Male,Madurai,Standard,1007.79,12.47,105,42,0,57,UPI,Average,1,iPhone,No,4.2
+C11153,26.0,Male,Bengaluru,Standard,213.22,31.26,740,47,2,32,UPI,Average,2,Android,No,2.6
+C10092,32.0,Male,Trichy,Basic,490.7,24.16,335,28,1,15,Debit Card,Good,1,iPhone,Yes,4.1
+C11042,43.0,Female,Hyderabad,Premium,548.01,27.89,765,53,2,57,Net Banking,Excellent,4,Android,Yes,2.7
+C10054,61.0,Female,,Basic,1753.02,18.98,302,47,0,60,Net Banking,Good,4,Android,Yes,3.3
+C10457,39.0,Male,Hyderabad,Unlimited,501.88,26.24,156,44,3,62,Debit Card,Average,1,Android,No,3.0
+C10461,22.0,Female,Madurai,Premium,779.32,18.8,617,43,2,57,UPI,Poor,2,Android,No,2.6
+C10913,27.0,Male,Coimbatore,Premium,290.82,30.19,321,43,3,76,UPI,Good,3,Android,No,3.6
+C10436,26.0,Male,Pune,Premium,536.4,17.6,277,40,2,7,Credit Card,Average,6,Android,Yes,2.9
+C10688,41.0,Male,Coimbatore,Premium,888.76,19.93,163,31,0,13,Credit Card,Average,2,iPhone,No,3.8
+C10442,49.0,Female,Pune,Unlimited,1684.17,14.07,109,43,1,76,UPI,Good,2,Android,No,2.8
+C10630,48.0,Female,Chennai,Standard,2290.16,12.91,332,32,2,77,Credit Card,Good,2,Android,Yes,3.8
+C10446,18.0,Male,Madurai,Premium,2044.51,5.01,88,57,2,37,UPI,Good,2,Android,No,3.6
+C10226,22.0,Male,Trichy,Basic,1741.0,38.3,206,45,0,81,Debit Card,Good,1,Android,No,4.4
+C10458,46.0,Male,Chennai,Unlimited,1820.59,12.41,261,44,0,84,UPI,Average,1,Android,No,5.0
+C11059,50.0,Male,Pune,Standard,1537.76,46.58,459,27,3,86,Credit Card,Average,2,iPhone,No,4.3
+C10265,19.0,Female,Mumbai,Basic,1529.23,16.97,671,41,0,12,UPI,Excellent,2,Android,No,4.2
+C10947,41.0,Female,Trichy,Basic,235.86,18.5,270,35,1,5,Auto Pay,Average,1,Android,Yes,4.0
+C10767,48.0,Female,Hyderabad,Premium,1748.64,9.58,114,37,2,18,Net Banking,Good,1,iPhone,Yes,3.5
+C10746,,Other,Trichy,Standard,2410.57,,594,41,3,42,Net Banking,Good,2,Android,Yes,3.6
+C10911,42.0,Male,Madurai,Premium,802.54,8.81,304,47,2,49,UPI,Poor,1,Android,No,3.5
+C10262,,Male,Hyderabad,Unlimited,967.64,21.44,174,43,2,71,UPI,Excellent,1,iPhone,No,3.4
+C10070,61.0,Male,Mumbai,Premium,2493.82,11.55,255,57,2,49,Credit Card,Good,2,iPhone,No,3.0
+C10030,44.0,Female,Hyderabad,Premium,294.63,12.47,203,39,4,81,Net Banking,Excellent,2,Android,No,2.2
+C10848,18.0,Female,Chennai,Standard,581.39,26.59,164,55,2,52,Debit Card,Average,0,Android,No,3.6
+C10858,44.0,Male,Hyderabad,Basic,1632.77,5.94,606,44,3,6,UPI,Poor,1,Android,Yes,1.9
+C10601,26.0,Female,Kochi,Premium,,8.26,278,42,2,26,Credit Card,Good,2,Android,Yes,4.4
+C10230,28.0,Male,Pune,Basic,1154.52,19.44,200,57,2,26,Credit Card,Average,3,Android,Yes,2.7
+C10497,41.0,Female,Chennai,Unlimited,885.03,21.91,199,57,0,42,Debit Card,Poor,2,iPhone,Yes,3.2
+C10282,25.0,Female,Pune,Premium,2382.33,21.86,183,47,2,66,Debit Card,Good,1,Android,No,3.0
+C10443,42.0,Female,Trichy,Standard,1373.31,18.03,717,51,3,93,Auto Pay,Good,0,iPhone,No,3.3
+C10327,64.0,Female,Pune,Basic,1638.07,16.24,427,44,2,80,Debit Card,Average,1,Android,No,2.5
+C10874,39.0,Female,Kochi,Premium,2344.6,15.14,417,43,0,93,UPI,Average,4,Android,No,4.4
+C10572,45.0,Male,Mumbai,Basic,1258.69,23.64,373,26,2,19,Debit Card,Excellent,2,Android,Yes,3.2
+C10627,21.0,Male,Pune,Premium,1376.1,10.61,599,30,1,2,UPI,Excellent,3,iPhone,No,3.2
+C10972,61.0,Female,Salem,Basic,1289.56,27.21,171,45,4,5,Auto Pay,Excellent,3,Android,Yes,3.0
+C11116,53.0,Other,Mumbai,Standard,1951.35,7.79,334,53,2,14,Auto Pay,Excellent,1,iPhone,No,3.6
+C10304,38.0,Female,Salem,Basic,799.67,11.4,118,43,1,11,UPI,Good,2,Android,No,2.6
+C10332,52.0,Female,Madurai,Premium,650.48,8.9,282,55,3,52,Credit Card,,2,Android,No,2.0
+C10757,63.0,Female,Coimbatore,Basic,1034.49,5.78,78,47,3,84,Credit Card,Excellent,3,Android,No,2.7
+C10785,31.0,Female,Trichy,Unlimited,2264.3,38.7,83,38,3,44,Credit Card,Poor,4,Android,Yes,1.5
+C10159,53.0,Male,,Standard,1011.14,33.75,121,40,2,58,Net Banking,Good,2,Android,No,3.4
+C10425,30.0,Male,Hyderabad,Basic,342.59,8.28,562,40,1,74,Debit Card,Good,3,iPhone,No,3.4
+C10840,38.0,Male,Kochi,Standard,794.48,16.87,134,46,1,38,Credit Card,Good,0,iPhone,No,3.7
+C10488,21.0,Male,Madurai,Premium,1136.89,8.2,536,50,2,39,UPI,Average,1,iPhone,No,3.2
+C10317,55.0,Female,Chennai,Standard,213.87,8.54,337,46,2,26,Debit Card,Excellent,2,Android,No,3.0
+C10263,33.0,Female,Chennai,Premium,1880.0,11.83,440,46,1,85,Debit Card,Average,3,iPhone,No,3.5
+C10099,18.0,Female,Chennai,Premium,1568.03,25.99,191,41,0,73,Debit Card,Average,2,iPhone,No,4.0
+C10717,27.0,Male,Pune,Premium,906.66,9.55,403,40,1,65,Debit Card,Good,1,Android,No,3.5
+C10885,24.0,Male,Mumbai,Basic,1902.53,22.02,221,33,0,59,Credit Card,Good,1,iPhone,Yes,4.5
+C10836,44.0,Female,Pune,Premium,2391.18,31.14,414,49,1,51,Auto Pay,Excellent,3,Android,Yes,2.8
+C11069,,Male,Hyderabad,Basic,,12.52,307,53,1,33,Credit Card,,1,iPhone,No,3.5
+C10138,31.0,Female,Mumbai,Premium,2061.25,,239,51,2,30,UPI,Excellent,1,iPhone,No,3.7
+C10563,30.0,Male,Coimbatore,Standard,2044.52,5.39,279,33,0,27,UPI,Good,5,Android,Yes,3.1
+C10059,34.0,Female,Pune,Premium,2348.88,9.13,91,43,1,3,Credit Card,Average,0,Feature Phone,No,4.0
+C10621,18.0,Female,Coimbatore,Standard,2396.53,28.89,365,37,1,63,Credit Card,Good,1,Android,No,3.4
+C11168,40.0,Male,Coimbatore,Standard,1425.64,11.62,397,42,1,77,Auto Pay,Poor,1,iPhone,Yes,3.1
+C10811,34.0,Female,Madurai,Basic,953.04,17.11,68,43,3,93,UPI,Good,1,Android,Yes,3.0
+C11185,24.0,Male,Hyderabad,Unlimited,997.01,19.75,188,46,2,68,Auto Pay,Poor,2,iPhone,No,3.6
+C10732,30.0,Female,Chennai,Standard,1946.59,33.51,295,49,2,16,Debit Card,Good,3,Android,Yes,2.3
+C10910,37.0,Female,Bengaluru,Basic,2140.18,19.1,336,42,2,7,Net Banking,Good,1,Android,Yes,3.5
+C10665,54.0,Male,Trichy,Standard,1076.72,2.3,236,39,3,66,Credit Card,Excellent,3,Android,No,2.9
+C11090,39.0,Female,Mumbai,Standard,581.23,5.63,563,53,1,57,UPI,Poor,6,iPhone,Yes,1.5
+C10252,57.0,Female,Pune,Premium,2481.78,6.77,210,31,2,14,UPI,Excellent,1,Android,No,3.1
+C10041,26.0,Male,Madurai,Premium,1673.22,14.24,148,58,2,30,Debit Card,Good,1,Android,No,3.4
+C10116,25.0,Male,Salem,Unlimited,1935.81,28.32,435,52,0,94,UPI,Good,2,Android,Yes,5.0
+C10677,20.0,Male,Mumbai,Basic,969.01,28.94,161,52,2,33,Auto Pay,Average,2,Android,Yes,2.7
+C10806,46.0,Male,Salem,Standard,984.77,13.88,218,49,4,89,UPI,Average,3,Android,Yes,1.5
+C10640,62.0,Female,Hyderabad,Basic,1788.87,23.06,211,46,1,21,UPI,Excellent,3,iPhone,Yes,3.4
+C10016,20.0,Male,Bengaluru,Standard,487.76,6.91,396,49,1,56,Auto Pay,Good,2,iPhone,No,4.5
+C11036,52.0,Female,Mumbai,Premium,585.45,17.99,314,54,3,61,Debit Card,Poor,1,Android,No,1.5
+C10558,47.0,Male,Salem,Unlimited,734.28,21.01,77,42,1,40,Net Banking,Average,1,Android,No,3.7
+C10554,40.0,Male,Pune,Basic,,13.39,176,41,4,31,Debit Card,Good,1,Android,No,2.9
+C11107,46.0,Female,Salem,Unlimited,249.25,9.93,196,46,0,5,Credit Card,Excellent,5,Android,No,2.7
+C10082,33.0,Female,Madurai,Standard,2070.56,18.95,150,40,5,12,Auto Pay,Excellent,0,iPhone,Yes,2.4
+C10684,33.0,Male,Coimbatore,Basic,1077.88,26.47,312,43,1,50,Credit Card,Average,2,Android,No,3.8
+C10564,,Male,Salem,Premium,983.86,11.53,149,38,2,79,Auto Pay,Excellent,2,Android,No,3.8
+C10528,58.0,Female,Bengaluru,Unlimited,1378.61,17.49,196,48,2,63,Net Banking,Good,6,iPhone,Yes,2.7
+C10259,47.0,Male,Madurai,Basic,2448.91,14.65,262,42,4,61,UPI,Average,2,Android,Yes,1.9
+C11136,,Male,Salem,Premium,1130.43,11.89,217,46,3,60,Auto Pay,Good,2,iPhone,No,2.8
+C10085,64.0,Female,Mumbai,Premium,2394.5,21.02,316,43,1,21,UPI,Poor,1,Android,Yes,4.0
+C10266,18.0,Other,Mumbai,Premium,2114.01,7.15,168,49,1,79,Debit Card,Poor,1,Android,Yes,2.4
+C10719,62.0,Male,Salem,Unlimited,570.9,6.04,439,52,0,4,Credit Card,Poor,4,Feature Phone,Yes,2.2
+C11096,55.0,Female,Kochi,Premium,611.08,35.53,504,37,1,15,Auto Pay,Good,0,iPhone,No,4.3
+C11074,59.0,Other,Pune,Standard,668.19,23.36,761,51,0,82,UPI,Poor,2,iPhone,No,3.1
+C10929,58.0,Male,Hyderabad,Standard,1649.77,10.28,294,43,1,76,Net Banking,Average,0,Android,No,3.8
+C10142,32.0,Male,Salem,Unlimited,397.1,18.0,278,44,2,63,UPI,Good,0,Android,No,3.8
+C10703,50.0,Male,Bengaluru,Basic,1786.11,12.27,292,43,0,38,Debit Card,Average,2,Android,No,4.2
+C10176,45.0,Female,Trichy,Standard,1955.49,33.49,641,44,2,71,Debit Card,Excellent,0,Android,No,3.7
+C10647,56.0,Male,Pune,Standard,557.28,5.63,180,51,3,47,Debit Card,Good,2,Android,No,2.1
+C10065,59.0,Female,Hyderabad,Standard,341.68,26.8,79,40,1,58,Auto Pay,Excellent,2,Feature Phone,No,3.0
+C11018,61.0,Female,Chennai,Basic,2445.22,24.78,68,45,1,25,UPI,Excellent,1,Android,No,3.9
+C10180,18.0,Female,Kochi,Unlimited,383.24,13.6,413,61,0,76,UPI,Good,5,Android,No,2.3
+C10598,35.0,Male,Salem,Standard,1159.01,5.82,391,45,1,19,Credit Card,Excellent,2,Android,Yes,4.6
+C10454,43.0,Female,Hyderabad,Standard,2374.22,24.85,354,40,0,74,Debit Card,Poor,4,Android,No,2.9
+C11148,54.0,Female,Hyderabad,Standard,2422.08,12.73,434,45,0,69,Net Banking,Good,2,iPhone,No,3.2
+C11190,34.0,Male,Trichy,Standard,1524.92,6.67,178,42,3,60,UPI,Good,4,Android,Yes,2.7
+C10956,23.0,Male,Chennai,Basic,1536.96,17.05,213,41,4,61,UPI,Average,1,Android,No,3.8
+C10088,42.0,Male,Kochi,Standard,1583.16,11.24,629,49,0,28,UPI,Good,4,iPhone,Yes,4.1
+C10481,48.0,Male,Salem,Premium,2128.36,16.31,440,45,2,42,Net Banking,Good,0,Feature Phone,No,3.5
+C10257,40.0,Male,Madurai,Premium,,31.02,420,46,2,79,Net Banking,Poor,2,iPhone,No,2.1
+C10835,20.0,Female,Chennai,Standard,1200.41,23.42,113,47,4,1,UPI,Excellent,0,iPhone,No,4.1
+C10388,18.0,Male,Kochi,Premium,1947.01,17.59,145,52,1,86,UPI,Good,0,Feature Phone,No,4.3
+C10364,39.0,Male,Mumbai,Basic,2344.33,8.37,405,49,2,4,Net Banking,Good,3,iPhone,Yes,3.1
+C10450,39.0,Male,Pune,Basic,955.29,11.4,697,45,0,30,Auto Pay,Average,2,Android,Yes,3.5
+C10720,22.0,Female,Madurai,Premium,2420.41,13.81,451,47,3,68,Debit Card,Good,2,iPhone,No,4.2
+C10207,19.0,Female,Coimbatore,Standard,303.85,10.32,153,50,2,21,Debit Card,Good,1,Android,No,3.5
+C11054,49.0,Female,Trichy,Unlimited,2450.77,24.89,127,42,2,47,UPI,Excellent,2,Android,Yes,3.4
+C10368,59.0,Female,Coimbatore,Basic,1253.59,11.98,527,49,0,86,UPI,Good,2,iPhone,No,4.3
+C10213,18.0,Female,Salem,Standard,490.97,47.84,251,50,0,32,Auto Pay,Excellent,1,iPhone,No,4.5
+C10290,42.0,Male,Trichy,Premium,1161.3,20.86,9,47,2,83,UPI,Excellent,2,Android,No,3.1
+C11040,36.0,Male,Hyderabad,Standard,1540.61,3.97,273,41,2,80,UPI,Excellent,1,iPhone,No,3.4
+C10470,38.0,Male,Bengaluru,Standard,2122.82,17.92,857,45,4,92,Auto Pay,Average,0,iPhone,No,3.5
+C10545,35.0,Male,Madurai,Premium,354.49,11.0,162,46,3,92,Auto Pay,Excellent,2,Android,No,3.0
+C10337,46.0,Female,Mumbai,Standard,1571.97,13.67,246,49,1,6,Auto Pay,Average,0,Android,No,4.0
+C10557,58.0,Female,Kochi,Standard,2485.96,13.13,396,55,2,2,Net Banking,Good,1,Android,No,3.6
+C11048,35.0,Male,Trichy,Basic,1359.67,6.85,165,47,1,53,UPI,Good,3,Android,No,3.9
+C11187,44.0,Male,Kochi,Standard,1997.09,6.06,485,44,0,48,Net Banking,Average,1,iPhone,Yes,5.0
+C10667,52.0,Male,Trichy,Basic,986.96,12.16,295,49,1,14,Credit Card,Poor,3,Android,No,2.5
+C11122,28.0,Male,Pune,Unlimited,2240.08,9.17,740,32,3,71,Credit Card,Excellent,0,Android,Yes,3.5
+C10008,36.0,Male,Pune,Basic,1623.1,21.42,253,45,1,68,Auto Pay,Good,0,iPhone,No,4.8
+C11064,19.0,Female,Coimbatore,Unlimited,1086.92,9.99,249,42,2,3,Debit Card,Good,4,iPhone,Yes,2.0
+C11166,63.0,Male,Salem,Premium,860.28,23.43,722,37,1,6,Credit Card,Good,2,Feature Phone,Yes,4.1
+C11095,50.0,Female,Mumbai,Basic,1315.03,26.69,283,39,0,56,Net Banking,Average,2,Android,Yes,3.8
+C10649,20.0,Female,Trichy,Standard,400.13,17.67,394,49,1,76,UPI,Excellent,2,Android,No,3.2
+C10723,35.0,Male,Chennai,Unlimited,1456.36,31.25,123,56,2,75,Debit Card,Good,4,iPhone,No,2.8
+C10696,45.0,Male,Trichy,Premium,2041.16,6.12,202,48,2,83,UPI,Good,1,iPhone,No,3.6
+C10518,52.0,Female,Coimbatore,Unlimited,1153.84,32.79,708,44,3,52,Credit Card,Good,1,Android,Yes,2.4
+C10403,39.0,Female,Salem,Premium,1876.41,24.46,410,37,2,83,Debit Card,Average,2,Android,No,3.6
+C10734,51.0,Female,Pune,Standard,2388.74,27.77,236,43,1,3,Debit Card,Average,3,iPhone,No,3.9
+C10713,22.0,Female,Chennai,Standard,2293.9,16.82,487,43,0,8,Auto Pay,Good,0,Android,No,4.3
+C11194,42.0,Male,Salem,Standard,715.08,8.35,583,34,1,82,UPI,Excellent,0,Feature Phone,No,5.0
+C11172,38.0,Male,Chennai,Unlimited,2161.63,22.32,369,41,1,26,Auto Pay,Good,5,iPhone,Yes,2.5
+C10144,43.0,Male,Kochi,Premium,843.77,25.32,272,32,0,56,Auto Pay,Good,3,Feature Phone,No,3.8
+C11062,50.0,Female,Trichy,Unlimited,1249.84,11.64,573,58,1,33,Net Banking,Excellent,1,Android,No,3.2
+C10819,60.0,Male,Hyderabad,Unlimited,,25.1,148,41,0,78,Debit Card,Good,4,Feature Phone,No,3.1
+C10560,37.0,Female,Hyderabad,Basic,635.71,22.76,213,48,2,91,Credit Card,Excellent,4,Android,Yes,3.8
+C10868,53.0,Female,Pune,Premium,1202.37,14.22,172,54,1,21,UPI,Excellent,1,iPhone,No,2.6
+C10360,63.0,Female,Trichy,Standard,230.88,14.2,242,45,1,74,UPI,Poor,0,Android,No,3.1
+C10495,44.0,Other,Chennai,Standard,771.22,10.45,179,60,2,90,Net Banking,Excellent,2,Android,No,2.6
+C10664,28.0,Male,Salem,Premium,2455.89,14.23,285,41,2,30,Auto Pay,Excellent,0,Android,No,3.7
+C10100,61.0,Male,Trichy,Standard,2204.4,12.95,301,48,4,55,Auto Pay,Good,2,iPhone,Yes,2.9
+C10704,,Female,Mumbai,Premium,926.03,23.65,496,50,2,14,UPI,Poor,0,Android,No,3.3
+C10916,62.0,Female,Salem,Unlimited,1512.09,4.85,753,52,1,78,Debit Card,Poor,2,iPhone,No,2.1
+C10060,53.0,Male,Hyderabad,Standard,776.02,10.79,413,49,1,51,Debit Card,Good,2,Android,No,4.3
+C10326,45.0,Male,Chennai,Premium,409.27,17.16,720,45,1,44,Debit Card,Good,0,iPhone,No,3.4
+C10012,41.0,Male,Trichy,Standard,1217.98,10.84,256,53,7,28,Auto Pay,Average,3,Android,Yes,1.0
+C10539,54.0,Female,Madurai,Basic,199.52,23.52,236,53,1,35,Auto Pay,Poor,4,Android,No,3.1
+C10927,36.0,Male,Bengaluru,Unlimited,1810.99,18.86,268,38,0,88,UPI,Good,1,Android,No,3.5
+C10895,52.0,Male,Madurai,Premium,443.17,7.55,136,47,4,22,UPI,Excellent,1,Android,No,2.7
+C10762,18.0,Male,Chennai,Standard,2050.72,24.06,450,45,1,72,UPI,Excellent,1,Android,No,4.2
+C10845,39.0,Female,Trichy,Premium,1423.68,13.9,702,48,1,69,UPI,Excellent,0,iPhone,No,4.2
+C10075,48.0,Male,Pune,Basic,2230.53,19.38,214,47,1,32,UPI,Excellent,5,Android,Yes,3.0
+C10549,40.0,Male,Madurai,Basic,473.02,21.25,141,47,2,49,UPI,Good,0,iPhone,Yes,3.5
+C10585,33.0,Male,Coimbatore,Standard,1127.01,22.02,136,50,1,10,Net Banking,Excellent,0,Android,No,3.4
+C10087,43.0,Male,Bengaluru,Standard,1297.06,31.55,252,43,0,8,Auto Pay,Excellent,3,Android,No,4.1
+C10189,26.0,Female,Coimbatore,Basic,1310.58,29.3,286,59,1,87,Auto Pay,Average,3,Android,No,3.3
+C11171,32.0,Male,Hyderabad,Unlimited,2447.15,26.68,424,51,2,11,Debit Card,Excellent,3,Android,Yes,2.9
+C10178,56.0,Male,Hyderabad,Basic,720.58,23.22,512,44,2,69,Auto Pay,Excellent,5,Android,No,3.1
+C11192,61.0,Male,Pune,Standard,2061.95,15.75,323,40,2,3,UPI,Good,0,iPhone,No,3.4
+C11163,54.0,Male,Bengaluru,Premium,1792.69,17.1,184,47,2,48,UPI,Average,1,iPhone,Yes,3.0
+C10191,50.0,Female,Trichy,Unlimited,2129.04,16.76,272,53,2,53,Net Banking,Excellent,1,Android,No,3.9
+C11029,46.0,Male,Madurai,Standard,1597.89,14.54,353,43,1,40,Net Banking,Good,1,iPhone,No,3.8
+C10414,22.0,Male,Madurai,Basic,655.85,8.41,663,51,2,52,Credit Card,Average,1,Android,No,3.2
+C10619,25.0,Female,Hyderabad,Basic,1451.65,14.34,160,46,0,69,Net Banking,Average,2,Android,No,3.5
+C11068,56.0,Female,Chennai,Premium,2183.81,5.6,1024,42,3,54,UPI,Good,3,Android,Yes,2.4
+C10246,24.0,Female,Coimbatore,Basic,1291.71,9.5,461,55,2,34,UPI,Excellent,2,iPhone,No,3.0
+C10218,49.0,Female,Hyderabad,Premium,2474.86,,441,48,1,82,UPI,Excellent,2,iPhone,Yes,4.6
+C10605,55.0,Male,Mumbai,Basic,2391.83,5.03,280,37,0,54,UPI,Excellent,3,iPhone,Yes,3.2
+C10490,41.0,Female,Trichy,Unlimited,307.55,15.65,289,40,4,94,Auto Pay,Average,2,Android,No,2.4
+C10765,51.0,Male,Trichy,Unlimited,316.91,16.66,167,38,1,10,UPI,Good,0,iPhone,No,4.0
+C10402,42.0,Female,Bengaluru,Basic,1743.93,14.4,85,42,2,32,UPI,Good,3,Android,Yes,3.6
+C10979,50.0,Female,Madurai,Premium,2463.71,23.88,292,43,1,90,UPI,Excellent,2,Android,No,3.2
+C10651,45.0,Male,Kochi,Basic,1150.09,9.35,406,40,2,51,UPI,Average,3,Android,Yes,2.7
+C10714,64.0,Female,Trichy,Premium,212.91,10.21,133,33,4,90,Debit Card,Excellent,1,Android,No,2.7
+C10748,54.0,Female,Madurai,Basic,1323.81,43.34,288,47,3,6,UPI,Excellent,3,Android,Yes,3.5
+C10670,35.0,Female,Mumbai,Standard,534.85,19.99,192,39,2,63,Auto Pay,Good,4,iPhone,Yes,3.3
+C10047,26.0,Male,Pune,Basic,2295.08,28.34,174,54,3,18,UPI,Poor,6,Android,Yes,1.7
+C10708,30.0,Female,Kochi,Standard,1088.66,9.52,204,43,0,2,Debit Card,Average,3,Android,No,3.9
+C10872,32.0,Male,Bengaluru,Standard,1482.79,19.56,288,52,1,3,Auto Pay,Poor,0,iPhone,Yes,2.5
+C10283,53.0,Female,Madurai,Premium,,12.56,413,52,4,60,UPI,Average,2,iPhone,Yes,2.9
+C10281,28.0,Male,Salem,Standard,564.09,43.19,208,56,0,55,UPI,Excellent,4,Android,No,3.0
+C10653,50.0,Male,Bengaluru,Basic,829.17,6.74,527,45,0,50,Credit Card,Average,3,Android,No,3.4
+C10232,50.0,Male,Madurai,Premium,970.35,7.73,563,49,1,59,Debit Card,Average,3,Android,No,2.8
+C10081,38.0,Male,Madurai,Unlimited,340.33,26.33,377,45,1,85,Debit Card,Average,1,iPhone,No,3.8
+C10474,47.0,Female,Hyderabad,Standard,1374.56,15.52,470,39,1,82,Auto Pay,Average,1,Android,No,2.9
+C10222,28.0,Female,Mumbai,Standard,1077.92,5.77,185,37,2,35,UPI,Average,0,Android,No,2.9
+C10473,50.0,Female,Pune,Premium,1855.88,9.86,170,54,1,82,Credit Card,Good,1,Android,No,4.0
+C10351,40.0,Female,Hyderabad,Premium,1614.47,21.86,238,35,1,57,Credit Card,Average,1,Android,No,4.4
+C10392,31.0,Female,Bengaluru,Basic,2445.09,30.99,481,38,2,72,UPI,Excellent,1,iPhone,Yes,3.6
+C10229,39.0,Male,Coimbatore,Basic,1325.18,6.12,195,43,2,8,UPI,Excellent,1,iPhone,No,3.3
+C10624,24.0,Male,Chennai,Standard,587.26,19.31,287,47,2,6,UPI,Good,2,Android,No,3.7
+C10689,45.0,Male,Bengaluru,Standard,1677.43,,97,37,2,30,UPI,Good,1,Android,No,3.5
+C10783,54.0,Male,Chennai,Basic,1181.34,3.76,148,34,2,15,Auto Pay,Average,1,Android,No,3.9
+C11180,42.0,Male,Coimbatore,Basic,,,537,44,4,80,UPI,Good,0,Android,No,3.1
+C11113,44.0,Male,Kochi,Basic,261.35,24.35,704,44,2,49,UPI,Good,2,Android,Yes,4.2
+C11043,21.0,Female,Kochi,Standard,1573.96,9.68,65,44,1,35,UPI,Average,0,Android,No,4.2
+C10299,53.0,Female,Trichy,Basic,1906.22,5.49,245,51,1,91,UPI,Excellent,1,Android,Yes,3.9
+C10648,18.0,Male,Chennai,Basic,1457.2,10.6,197,37,1,81,Credit Card,Excellent,3,iPhone,No,2.4
+C10994,23.0,Female,Pune,Premium,1091.34,26.61,372,27,2,12,Credit Card,Good,3,iPhone,No,3.4
+C11041,31.0,Female,Madurai,Basic,2232.99,8.98,352,52,1,75,Credit Card,Average,2,iPhone,No,4.0
+C10371,34.0,Other,Bengaluru,Standard,1760.85,31.71,508,40,1,54,Auto Pay,Poor,3,Android,No,2.1
+C10837,46.0,Male,Kochi,Standard,1853.26,41.79,489,42,3,89,Debit Card,Good,1,Android,No,3.2
+C10955,48.0,Female,Bengaluru,Unlimited,489.07,4.57,150,46,2,55,UPI,Good,1,Android,No,3.5
+C10764,49.0,Male,Salem,Unlimited,1107.62,12.21,205,37,4,14,UPI,Excellent,1,Feature Phone,No,3.2
+C10499,52.0,Female,Coimbatore,Standard,1103.18,12.83,307,53,1,24,Net Banking,Excellent,1,Android,No,3.9
+C10766,45.0,Male,Mumbai,Standard,1123.32,7.88,382,44,0,50,Net Banking,Excellent,1,Android,No,3.7
+C10301,21.0,Female,Chennai,Premium,1015.11,9.88,251,35,0,77,UPI,Good,2,iPhone,No,4.2
+C10349,38.0,Male,Mumbai,Premium,1551.38,25.32,507,55,2,52,Net Banking,Average,0,iPhone,No,3.8
+C10731,44.0,Male,Hyderabad,Basic,1054.79,22.61,441,32,1,91,UPI,Average,3,iPhone,Yes,3.4
+C10594,40.0,Male,Madurai,Standard,355.83,14.24,468,34,0,2,Credit Card,Average,1,Android,No,5.0
+C10832,42.0,Male,Chennai,Premium,1486.41,16.73,78,45,1,6,Debit Card,Average,0,Android,No,3.0
+C11022,51.0,Female,Kochi,Premium,2198.93,38.1,185,46,1,74,UPI,Average,2,Android,No,4.3
+C10438,18.0,Male,Mumbai,Premium,2372.56,4.74,319,41,1,57,Debit Card,Average,0,Android,No,3.5
+C10106,52.0,Male,Salem,Standard,1500.46,18.84,122,53,2,48,Auto Pay,Excellent,0,Android,No,2.6
+C10890,60.0,Female,Mumbai,Basic,1611.63,18.87,289,60,1,1,UPI,Good,2,iPhone,Yes,3.5
+C10753,34.0,Other,,Standard,2066.16,17.95,158,43,1,84,UPI,Good,2,iPhone,No,4.2
+C10775,61.0,Male,Coimbatore,Premium,668.35,19.27,506,39,2,23,Debit Card,Good,1,iPhone,No,3.4
+C10899,45.0,Male,Chennai,Unlimited,1360.3,31.37,290,41,4,92,Debit Card,Excellent,1,Feature Phone,Yes,3.3
+C10334,61.0,Female,Chennai,Standard,2180.83,32.78,496,48,0,55,Auto Pay,Excellent,0,iPhone,No,5.0
+C10569,29.0,Female,Chennai,Premium,2190.88,10.4,181,44,0,90,Auto Pay,Good,1,Android,No,3.5
+C10064,23.0,Male,Coimbatore,Basic,1068.03,40.19,485,52,1,61,UPI,Excellent,2,iPhone,Yes,4.0
+C10025,50.0,Male,Salem,Standard,1545.85,23.02,122,22,1,70,Net Banking,Good,2,iPhone,No,2.4
+C11121,37.0,Female,Trichy,Basic,1094.18,6.89,257,34,3,34,Net Banking,Average,2,iPhone,No,2.6
+C10921,39.0,Female,Kochi,Standard,427.84,13.73,272,49,2,85,Debit Card,,0,Android,No,2.9
+C10907,42.0,Male,Bengaluru,Standard,470.34,14.16,160,40,1,35,Net Banking,Excellent,2,iPhone,No,4.1
+C11167,53.0,Female,Salem,Standard,1436.91,13.3,549,34,3,66,Net Banking,Good,3,Android,Yes,2.5
+C10676,18.0,Male,Mumbai,Basic,357.78,42.67,164,39,2,15,Credit Card,Good,1,Android,No,2.9
+C10862,39.0,Female,Trichy,Premium,968.22,25.07,181,48,1,11,Credit Card,Good,2,Feature Phone,No,4.2
+C10164,45.0,Female,Coimbatore,Premium,2003.13,7.63,327,46,5,12,Debit Card,Average,2,iPhone,Yes,2.7
+C10635,27.0,Male,Trichy,Basic,863.63,14.75,564,50,3,35,Credit Card,Average,3,Android,Yes,2.5
+C10884,31.0,Male,Salem,Standard,1470.47,39.76,103,56,1,1,Auto Pay,Average,2,iPhone,No,4.6
+C10412,61.0,Female,Kochi,Basic,1131.25,28.96,252,46,2,46,UPI,Average,1,Android,No,3.6
+C10365,40.0,Male,Trichy,Standard,245.32,12.08,67,41,2,4,Net Banking,Good,0,Android,Yes,3.7
+C10695,45.0,Male,Coimbatore,Basic,1277.79,22.02,421,47,2,94,Auto Pay,Good,2,Android,No,3.5
+C11112,19.0,Male,Trichy,Standard,1184.21,2.4,222,52,0,13,Auto Pay,Average,2,Android,No,4.0
+C10977,36.0,Female,Madurai,Standard,,38.26,588,53,2,17,UPI,Good,2,Android,Yes,3.5
+C10400,40.0,Female,Salem,Basic,1104.18,17.68,437,44,3,47,Credit Card,Average,0,Android,No,3.5
+C11076,64.0,Male,Kochi,Premium,1481.68,6.28,273,43,3,8,Auto Pay,Average,2,Android,No,3.2
+C11181,43.0,Female,Bengaluru,Basic,1052.24,4.21,278,46,1,57,Auto Pay,Average,1,Android,No,2.9
+C10033,33.0,Male,Pune,Premium,779.32,9.98,236,41,1,63,Credit Card,Average,3,iPhone,No,3.7
+C11127,25.0,Female,Pune,Basic,2411.73,19.19,134,58,3,81,Credit Card,Good,2,Android,No,2.5
+C11173,64.0,Male,Chennai,Standard,1345.17,14.72,180,45,2,21,Credit Card,Average,2,Feature Phone,Yes,2.8
+C10646,58.0,Male,Bengaluru,Standard,1683.73,28.28,125,35,2,46,UPI,Good,1,Android,No,3.1
+C10344,46.0,Female,Pune,Premium,817.23,13.08,606,60,3,74,Debit Card,Good,6,Android,No,1.5
+C11038,54.0,Female,Madurai,Premium,1118.96,9.89,419,40,2,10,Debit Card,Average,0,Android,No,4.2
+C10589,56.0,Female,Chennai,Standard,2102.3,42.94,485,51,3,6,UPI,Average,0,Android,No,3.7
+C10532,28.0,Female,Pune,Basic,,33.32,406,44,1,30,Credit Card,Average,2,Android,Yes,3.4
+C10035,64.0,Male,Salem,Standard,1610.37,15.15,510,55,0,48,Debit Card,Excellent,3,Android,No,4.1
+C10822,64.0,Female,Salem,Basic,617.18,14.56,435,53,0,1,UPI,Average,3,Android,Yes,3.9
+C10760,30.0,Male,Madurai,Premium,1632.38,12.93,67,37,3,40,Credit Card,Good,4,Android,Yes,2.6
+C10152,54.0,Female,Bengaluru,Standard,1080.4,32.1,340,39,1,47,Debit Card,Good,1,iPhone,No,4.3
+C10752,36.0,Female,Chennai,Premium,1952.0,26.35,467,50,1,55,Auto Pay,Good,3,Android,No,2.9
+C10315,47.0,Female,Chennai,Unlimited,1380.53,12.69,223,41,2,28,Credit Card,,4,Feature Phone,Yes,3.3
+C10237,20.0,Male,Chennai,Basic,1874.91,7.25,739,52,0,17,Auto Pay,Excellent,4,iPhone,Yes,3.8
+C10022,55.0,Female,Madurai,Premium,396.87,18.34,487,39,0,26,UPI,Excellent,1,Android,No,4.7
+C11115,53.0,Female,Madurai,Standard,223.18,38.61,156,47,0,50,Net Banking,Poor,2,Android,No,3.8
+C11099,64.0,Female,Trichy,Basic,1831.24,4.01,554,45,2,8,Debit Card,Good,0,Android,Yes,5.0
+C10096,24.0,Male,Pune,Basic,679.31,2.9,385,51,2,62,Debit Card,Good,3,Android,Yes,3.4
+C10798,55.0,Male,Salem,Premium,1465.52,2.34,677,36,1,44,Debit Card,Average,1,Android,No,3.3
+C10186,23.0,Female,Madurai,Basic,316.65,11.5,330,42,0,20,Net Banking,Good,3,iPhone,No,4.0
+C10573,31.0,Male,Hyderabad,Standard,2473.33,19.37,145,48,0,82,Net Banking,Good,3,Android,No,3.5
+C10531,62.0,Male,Mumbai,Standard,2489.19,13.74,661,36,1,30,Net Banking,Good,2,Android,No,3.7
+C10813,41.0,Male,Pune,Standard,1572.82,12.51,258,37,1,61,Net Banking,Average,3,Android,Yes,2.8
+C10456,54.0,Female,Bengaluru,Basic,2173.56,23.72,148,43,0,48,Debit Card,Average,6,iPhone,Yes,2.0
+C10566,29.0,Female,Kochi,Standard,1752.85,4.54,81,42,2,78,UPI,Good,1,Android,No,2.7
+C10359,,Female,Kochi,Premium,2066.29,23.83,513,36,3,48,Debit Card,Good,1,iPhone,No,2.6
+C10472,53.0,Male,Pune,Premium,634.15,12.14,294,62,0,17,UPI,Average,1,Android,No,3.6
+C10333,34.0,Other,Madurai,Premium,250.9,14.35,542,42,2,15,Auto Pay,Good,2,iPhone,No,3.2
+C10919,53.0,Male,Salem,Standard,444.23,11.69,80,39,3,68,UPI,Poor,2,Android,No,1.9
+C10818,30.0,Female,Kochi,Standard,2199.19,19.51,409,42,2,8,Debit Card,Average,4,Android,Yes,2.9
+C10610,59.0,Female,Hyderabad,Basic,576.86,8.31,338,38,5,75,Auto Pay,Average,1,iPhone,No,2.8
+C10855,31.0,Male,Coimbatore,Basic,1559.95,59.61,215,54,1,52,Net Banking,Good,1,iPhone,No,4.4
+C10303,31.0,Male,Trichy,Basic,1495.95,8.88,592,48,2,51,Credit Card,Poor,0,iPhone,No,2.9
+C10340,52.0,Female,Madurai,Premium,1923.68,10.26,319,41,4,55,UPI,Good,1,Android,No,2.9
+C10295,19.0,Male,Salem,Basic,1284.0,22.46,139,52,0,32,Credit Card,Average,2,Android,No,3.5
+C10031,59.0,Female,Trichy,Standard,1344.7,10.24,232,43,1,60,UPI,Average,1,Android,No,4.3
+C10254,28.0,Female,Chennai,Standard,2209.91,18.43,715,47,6,44,Auto Pay,Good,0,Android,Yes,2.2
+C11067,57.0,Male,Madurai,Standard,390.41,22.52,624,43,1,16,UPI,Good,1,Android,No,4.0
+C10744,22.0,Female,Trichy,Basic,1173.67,7.45,461,48,3,7,Net Banking,Excellent,2,Android,Yes,2.6
+C10258,48.0,Male,Madurai,Premium,1141.25,10.63,499,37,0,78,Credit Card,Good,0,Android,No,4.0
+C10199,58.0,Female,Bengaluru,Standard,1482.11,6.1,259,42,4,18,Debit Card,Average,3,Android,Yes,2.4
+C10429,34.0,Male,Salem,Standard,927.97,16.3,203,42,3,11,Debit Card,Average,0,Android,No,2.6
+C10146,30.0,Female,Pune,Unlimited,1210.67,20.86,389,40,1,58,UPI,Good,3,Android,No,3.7
+C10432,43.0,Female,Hyderabad,Basic,894.67,15.97,730,49,1,46,Auto Pay,Excellent,0,Feature Phone,No,2.7
+C10074,31.0,Female,Hyderabad,Standard,463.84,25.58,208,48,0,44,UPI,Poor,3,Feature Phone,No,3.2
+C10925,57.0,Male,Salem,Standard,2188.66,11.3,99,41,1,17,Auto Pay,Good,5,Android,No,2.6
+C11156,57.0,Female,Salem,Basic,,9.52,475,48,1,26,UPI,Poor,1,iPhone,Yes,2.7
+C10900,27.0,Male,Chennai,Unlimited,1967.12,8.84,359,43,0,86,Net Banking,Good,1,Android,No,4.6
+C10829,21.0,Female,Kochi,Standard,686.02,12.57,350,51,1,16,UPI,Average,2,Android,No,2.7
+C10055,25.0,Male,Kochi,Unlimited,1109.66,47.92,332,48,1,9,Credit Card,Excellent,1,Android,No,3.6
+C11151,45.0,Female,Mumbai,Standard,1511.96,10.7,49,48,1,22,Auto Pay,Good,1,Android,No,4.1
+C10637,36.0,Female,Bengaluru,Unlimited,1103.64,14.35,209,48,2,39,Debit Card,Excellent,2,Android,No,3.2
+C10678,33.0,Female,Salem,Standard,920.52,31.8,441,42,2,16,Net Banking,Average,3,iPhone,No,3.7
+C10142,32.0,Male,Salem,Unlimited,397.1,18.0,278,44,2,63,UPI,Good,0,Android,No,3.8
+C11078,50.0,Female,Hyderabad,Unlimited,2434.24,47.15,462,48,1,60,Net Banking,Excellent,2,Android,Yes,3.8
+C10705,30.0,Male,Chennai,Standard,327.2,16.35,452,47,2,64,Net Banking,Average,3,iPhone,No,3.1
+C10937,,Male,Coimbatore,Standard,1315.96,20.74,232,32,3,89,Debit Card,Good,0,Android,Yes,2.9
+C10441,51.0,Female,Chennai,Premium,1350.33,20.99,425,33,1,5,UPI,Good,0,Android,No,4.0
+C10004,60.0,Male,Salem,Basic,1931.99,17.69,301,52,2,1,Net Banking,Average,4,Android,Yes,3.2
+C10221,21.0,Female,Hyderabad,Premium,526.88,12.37,88,41,3,11,UPI,Average,1,iPhone,Yes,3.9
+C11002,57.0,Male,Hyderabad,Standard,2356.82,8.03,216,51,4,23,Debit Card,Excellent,2,Android,Yes,3.8
+C11193,41.0,Female,Hyderabad,Standard,747.07,35.34,696,48,2,9,Net Banking,Good,3,Feature Phone,No,3.4
+C10974,23.0,Male,Madurai,Standard,1617.23,16.66,555,37,4,71,UPI,Average,2,Android,No,2.4
+C11000,19.0,Female,Trichy,Basic,1755.22,11.46,880,46,4,16,UPI,Excellent,2,Feature Phone,Yes,1.8
+C11011,32.0,Female,Chennai,Standard,345.73,29.56,378,45,1,95,Credit Card,Excellent,2,Android,No,3.2
+C10328,50.0,Female,Coimbatore,Basic,1465.22,34.11,253,40,1,56,Net Banking,Good,1,iPhone,No,3.5
+C11050,25.0,Female,Pune,Unlimited,1789.96,30.82,434,32,2,52,Credit Card,Average,0,Android,No,2.0
+C10697,54.0,Male,Pune,Basic,613.36,26.6,543,45,0,39,UPI,Poor,3,Android,No,3.2
+C10130,52.0,Female,,Premium,1859.75,17.7,235,40,2,14,Auto Pay,,1,iPhone,Yes,4.2
+C10390,63.0,Other,Hyderabad,Premium,1143.57,15.77,419,39,2,18,Credit Card,Good,3,Android,Yes,2.8
+C10076,32.0,Female,Kochi,Standard,1153.1,12.28,11,37,0,35,Net Banking,Good,2,iPhone,No,4.0
+C11081,44.0,Male,Chennai,Unlimited,1278.64,27.75,200,37,1,15,Credit Card,Excellent,2,iPhone,Yes,3.0
+C10802,47.0,Female,Hyderabad,Basic,1880.88,14.42,103,43,2,60,Auto Pay,Good,2,Android,No,2.7
+C10935,23.0,Female,Salem,Standard,2325.68,7.93,158,62,5,42,Debit Card,Good,1,Android,Yes,2.3
+C10761,21.0,Female,Kochi,Standard,1904.74,14.24,435,58,2,94,Auto Pay,Average,0,iPhone,No,3.4
+C11092,27.0,Female,Salem,Premium,2360.83,6.68,110,49,0,39,Credit Card,Average,1,Feature Phone,No,4.2
+C11044,42.0,Female,Hyderabad,Premium,1727.9,19.64,97,48,0,72,Auto Pay,Good,4,iPhone,No,3.8
+C10567,58.0,Male,Coimbatore,Standard,1369.46,20.46,896,46,2,71,Credit Card,Excellent,1,Android,Yes,2.7
+C10844,59.0,Female,Salem,Standard,895.38,2.67,298,42,2,12,UPI,Good,1,Android,Yes,3.1
+C11098,48.0,Male,Trichy,Basic,1257.82,45.64,327,42,2,12,UPI,Average,1,iPhone,No,3.2
+C10086,41.0,Male,Pune,Standard,547.29,31.68,705,36,0,48,UPI,Good,1,iPhone,No,3.4
+C10204,54.0,Male,Pune,Standard,625.14,37.98,291,51,1,45,Debit Card,Good,2,Android,No,2.6
+C10857,62.0,Male,Coimbatore,Standard,1732.38,10.69,141,44,1,13,Net Banking,Good,1,Android,No,3.3
+C10898,54.0,Male,Coimbatore,Unlimited,647.4,15.22,566,38,3,28,Debit Card,Average,2,Android,No,2.6
+C10963,23.0,Female,Pune,Basic,500.96,13.83,147,41,1,18,Net Banking,Good,2,Android,No,3.3
+C10923,64.0,Female,Madurai,Standard,2421.43,12.48,214,38,0,49,Credit Card,Excellent,3,Android,No,4.0
+C10614,22.0,Female,Kochi,Basic,483.85,13.09,506,44,1,49,Debit Card,Good,2,Android,No,3.4
+C10057,52.0,Male,Bengaluru,Standard,1243.62,15.01,185,45,3,60,Credit Card,Good,1,Android,No,3.6
+C10915,58.0,Male,Pune,Standard,1527.51,6.66,66,60,1,27,UPI,Good,4,Android,No,3.6
+C10289,52.0,Male,Coimbatore,Premium,1311.75,27.34,213,52,0,95,Auto Pay,Good,2,iPhone,No,4.0
+C10378,59.0,Male,Pune,Unlimited,730.49,8.79,175,44,2,40,Net Banking,Average,3,Feature Phone,Yes,3.1
+C10296,52.0,Female,Bengaluru,Unlimited,,9.31,297,35,1,2,Debit Card,Good,2,Android,No,4.2
+C10492,19.0,Female,Coimbatore,Standard,1761.07,35.04,266,50,0,84,Net Banking,Good,1,Android,Yes,4.9
+C11005,18.0,Female,Madurai,Basic,1810.86,13.31,340,54,0,33,Net Banking,Poor,4,Android,Yes,2.0
+C10462,64.0,Male,Pune,Standard,2207.0,15.8,155,40,0,68,Credit Card,Average,1,Android,No,3.9
+C10362,49.0,Female,Madurai,Standard,1737.42,4.7,383,38,1,16,Debit Card,Good,2,Android,Yes,4.1
+C10587,62.0,Female,Chennai,Unlimited,2082.4,,283,39,0,55,Net Banking,Good,1,Android,No,4.3
+C10215,19.0,Female,Salem,Standard,1391.69,10.91,295,43,4,59,UPI,Excellent,2,Feature Phone,No,3.1
+C10198,41.0,Male,Trichy,Standard,2218.48,32.19,263,43,1,45,Credit Card,Excellent,0,Android,No,4.0
+C10018,19.0,Male,Salem,Standard,447.5,10.91,501,50,1,3,Auto Pay,Excellent,5,Android,No,3.4
+C10193,61.0,Female,Hyderabad,Premium,1362.1,14.22,97,54,0,77,Auto Pay,Excellent,0,iPhone,No,4.3
+C10151,47.0,Female,Coimbatore,Premium,2274.53,10.88,212,44,2,23,Credit Card,Excellent,2,Android,No,2.4
+C10373,50.0,Male,Chennai,Premium,2491.98,12.16,93,50,3,53,Net Banking,Poor,2,Android,Yes,2.6
+C10544,53.0,Female,Hyderabad,Standard,475.84,22.54,196,40,0,80,Auto Pay,,5,iPhone,No,4.1
+C10112,,Female,Madurai,Basic,1194.37,11.62,427,39,3,46,Auto Pay,Excellent,5,iPhone,No,2.3
+C10079,40.0,Female,Mumbai,Standard,1215.68,19.47,674,26,2,54,UPI,Excellent,2,Android,No,4.0
+C10502,60.0,Male,Mumbai,Basic,1450.79,33.22,147,38,0,73,UPI,Good,2,iPhone,Yes,3.6
+C10593,52.0,Female,Hyderabad,Standard,736.2,9.29,420,45,4,77,Auto Pay,Excellent,1,Android,No,2.6
+C10475,54.0,Female,Coimbatore,Basic,1588.92,22.36,325,33,1,87,Net Banking,Good,2,Android,No,3.7
+C10856,43.0,Male,Trichy,Standard,640.65,11.0,227,43,2,81,Credit Card,,3,Feature Phone,No,3.1
+C10366,19.0,Male,Trichy,Unlimited,552.7,19.55,454,44,1,27,UPI,Good,1,iPhone,Yes,4.4
+C10797,,Male,Salem,Premium,2128.93,,145,50,0,7,Debit Card,Excellent,3,Android,No,3.6
+C11020,28.0,Female,Chennai,Standard,2043.23,21.29,479,55,1,61,Debit Card,Good,1,Android,Yes,4.4
+C10121,41.0,Female,Hyderabad,Basic,1648.21,22.39,304,41,0,81,Debit Card,Good,4,iPhone,No,3.6
+C10515,48.0,Female,Madurai,Premium,367.74,53.45,310,43,3,6,Credit Card,Average,2,Android,Yes,3.1
+C10592,22.0,Male,Salem,Premium,,8.29,233,40,2,48,Auto Pay,Good,4,Android,No,3.1
+C10782,32.0,Male,Salem,Basic,2400.41,21.38,236,55,1,81,Debit Card,Good,4,Android,Yes,3.3
+C10494,49.0,Male,Mumbai,Basic,821.29,8.55,520,36,1,14,Credit Card,Excellent,1,iPhone,No,4.8
+C11085,50.0,Male,Coimbatore,Premium,495.86,15.62,218,44,1,30,UPI,Good,1,Android,No,4.2
+C10613,19.0,Female,Pune,Premium,1659.29,20.18,322,42,3,50,UPI,Average,3,Android,Yes,2.7
+C10251,35.0,Male,Mumbai,Unlimited,1998.58,6.64,173,39,1,68,Net Banking,Poor,4,Android,No,2.5
+C10001,56.0,Female,Kochi,Standard,1529.53,16.45,184,31,0,28,UPI,Excellent,3,Android,Yes,5.0
+C10168,23.0,Female,Pune,Standard,1443.56,4.55,462,40,2,49,Debit Card,Good,3,iPhone,No,3.0
+C10355,42.0,Female,Pune,Standard,1390.58,17.42,524,49,3,33,Credit Card,Good,1,iPhone,Yes,3.4
+C10484,49.0,Female,Madurai,Basic,1033.86,29.66,713,39,0,17,Debit Card,Excellent,5,Android,No,2.4
+C10908,34.0,Male,Kochi,Premium,302.85,14.33,418,52,5,20,Auto Pay,Average,1,Android,No,2.7
+C10791,55.0,Male,Coimbatore,Standard,672.75,18.2,281,50,0,22,UPI,Good,1,Android,No,4.1
+C10306,25.0,Male,Salem,Standard,1504.0,14.53,70,44,1,80,Net Banking,Average,0,Android,Yes,3.3
+C11003,19.0,Male,Coimbatore,Unlimited,832.8,21.91,490,47,3,86,Debit Card,Good,3,iPhone,No,2.8
+C10239,53.0,Female,Coimbatore,Unlimited,1103.24,6.84,292,55,0,36,Auto Pay,Good,1,Android,No,4.4
+C11023,29.0,Female,Coimbatore,Basic,614.51,23.7,290,48,6,60,UPI,Good,1,Feature Phone,Yes,2.4
+C10823,40.0,Female,Chennai,Basic,1188.8,17.14,352,44,0,56,UPI,Good,2,Feature Phone,No,3.7
+C10834,49.0,Female,Trichy,Standard,1732.93,12.49,212,42,3,63,Credit Card,Good,0,iPhone,Yes,4.1
+C10269,54.0,Female,Chennai,Basic,336.12,3.4,714,42,2,34,Auto Pay,Good,2,iPhone,No,3.6
+C10155,62.0,Female,Bengaluru,Unlimited,310.23,21.37,248,44,1,51,UPI,Average,3,Feature Phone,Yes,3.5
+C10743,48.0,Male,Pune,Standard,2313.18,11.72,309,40,1,15,Debit Card,Good,1,Android,No,3.9
+C10887,64.0,Male,Kochi,Premium,395.43,8.49,576,49,0,14,Auto Pay,Good,0,iPhone,No,4.1
+C10115,26.0,Female,Coimbatore,Premium,2360.01,10.86,491,42,0,16,UPI,Good,3,iPhone,Yes,3.3
+C10976,21.0,Male,Coimbatore,Basic,949.19,17.36,88,41,2,42,UPI,,1,iPhone,No,2.9
+C11197,41.0,Male,Chennai,Standard,219.9,11.37,71,40,2,4,Net Banking,Good,2,Feature Phone,Yes,3.1
+C10211,49.0,Male,Pune,Unlimited,376.53,27.52,445,51,1,36,Auto Pay,Good,1,iPhone,No,3.2
+C10227,51.0,Female,,Premium,1675.18,12.4,56,36,0,10,UPI,Good,2,iPhone,No,3.2
+C10909,30.0,Male,Chennai,Premium,1206.17,17.88,195,51,1,2,Debit Card,Average,2,iPhone,No,3.8
+C10870,25.0,Female,Mumbai,Standard,,6.72,384,47,5,81,Auto Pay,Good,4,Android,No,2.2
+C11146,21.0,Male,Chennai,Premium,399.02,26.87,276,53,3,15,Net Banking,Excellent,1,Android,No,3.3
+C10300,50.0,Male,Mumbai,Standard,256.96,20.0,552,49,2,73,UPI,Poor,2,Android,No,1.0
+C10478,22.0,Female,Kochi,Basic,2106.99,14.83,480,44,2,73,Credit Card,Excellent,0,Feature Phone,No,3.5
+C10356,59.0,Male,Pune,Premium,691.19,19.69,686,39,3,7,UPI,Good,3,Android,Yes,2.8
+C11170,57.0,Male,Madurai,Standard,588.07,39.3,153,53,3,52,UPI,Excellent,3,Android,No,2.6
+C10673,31.0,Female,Hyderabad,Unlimited,2240.18,8.45,95,39,1,40,Credit Card,Average,1,Android,No,3.7
+C10260,59.0,Female,Coimbatore,Standard,615.05,21.9,439,50,1,85,Auto Pay,Good,2,iPhone,No,3.4
+C10889,63.0,Other,Kochi,Standard,1390.42,18.63,259,68,2,34,Auto Pay,Average,2,Feature Phone,No,3.9
+C10631,36.0,Female,Coimbatore,Premium,2084.14,22.54,217,45,0,18,UPI,Good,0,Android,No,3.6
+C11061,34.0,Female,,Standard,2187.04,25.27,737,54,2,50,UPI,Excellent,2,Android,No,3.3
+C11110,29.0,Male,Mumbai,Basic,1274.76,31.01,258,44,0,50,Auto Pay,,2,Android,No,4.1
+C10335,45.0,Male,Kochi,Basic,1526.37,18.69,245,51,0,43,UPI,Excellent,2,Feature Phone,No,4.4
+C11026,18.0,Other,Kochi,Premium,,11.73,449,45,2,84,UPI,Excellent,1,iPhone,No,2.9
+C10975,43.0,Male,Kochi,Standard,291.77,7.95,222,48,2,39,UPI,Excellent,2,iPhone,No,3.2
+C10671,64.0,Female,Madurai,Standard,2356.55,19.36,159,40,1,79,Net Banking,Excellent,2,iPhone,No,3.6
+C11025,52.0,Female,Trichy,Standard,702.17,16.28,521,38,0,73,UPI,Excellent,1,Android,Yes,4.4
+C11066,57.0,Female,Hyderabad,Premium,1802.48,12.02,570,41,1,4,Debit Card,Average,3,Android,No,3.0
+C10547,49.0,Male,Salem,Standard,2335.26,31.54,414,49,2,27,Debit Card,Good,1,iPhone,No,4.3
+C10145,59.0,Male,Madurai,Premium,503.01,3.67,246,43,2,91,UPI,Excellent,2,Android,No,2.7
+C10581,42.0,Female,Trichy,Premium,422.94,22.95,363,47,2,51,Auto Pay,Excellent,3,Feature Phone,No,3.4
+C10330,36.0,Male,Kochi,Standard,1398.17,5.76,99,42,0,23,UPI,Good,0,Android,No,4.3
+C11035,47.0,Female,Pune,Basic,1289.91,23.3,764,55,1,70,Debit Card,Excellent,1,Android,No,3.2
+C10420,47.0,Male,Salem,Unlimited,2145.09,2.3,555,52,2,61,Net Banking,Good,1,Feature Phone,No,4.2
+C11184,19.0,Female,Coimbatore,Basic,1083.39,11.86,294,38,1,24,UPI,Average,2,Android,No,3.4
+C10770,43.0,Male,Mumbai,Basic,1020.06,17.44,503,33,1,52,Auto Pay,Excellent,3,Android,No,3.6
+C10298,58.0,Female,Bengaluru,Standard,682.25,29.32,82,34,1,59,Credit Card,Average,1,Android,No,4.2
+C10706,45.0,Female,Mumbai,Premium,1601.57,10.6,193,35,2,39,Auto Pay,Good,2,iPhone,Yes,3.0
+C10409,54.0,Male,Hyderabad,Unlimited,1683.0,3.27,374,55,5,8,UPI,Good,2,Android,Yes,2.5
+C11063,64.0,Male,Mumbai,Basic,1291.75,10.7,443,53,2,73,Net Banking,Good,2,Android,No,3.7
+C10607,63.0,Male,Hyderabad,Standard,883.6,30.15,124,51,2,6,Auto Pay,Good,1,Android,No,3.1
+C10893,35.0,Female,Kochi,Basic,1186.04,38.67,132,50,1,80,Auto Pay,Excellent,6,iPhone,Yes,2.4
+C10498,29.0,Male,Salem,Standard,1982.66,22.83,812,42,0,51,Credit Card,Good,2,iPhone,No,3.9
+C10108,50.0,Male,Mumbai,Basic,1110.52,13.87,229,51,1,74,UPI,Poor,4,iPhone,No,2.8
+C11106,22.0,Female,Coimbatore,Standard,289.53,15.15,193,52,1,16,Net Banking,Average,0,iPhone,No,3.8
+C10126,39.0,Male,Bengaluru,Premium,485.0,40.33,373,59,4,49,UPI,Average,1,Android,No,3.0
+C10471,56.0,Female,Madurai,Premium,1461.49,16.59,125,44,1,83,Auto Pay,Poor,4,iPhone,No,3.0
+C10421,64.0,Female,Madurai,Unlimited,619.47,18.86,127,48,2,44,Debit Card,Good,2,Feature Phone,No,3.1
+C10742,22.0,Male,Mumbai,Basic,1909.98,16.65,148,46,3,27,Credit Card,Good,0,iPhone,Yes,4.4
+C11144,61.0,Male,Salem,Standard,794.22,22.81,138,35,1,19,Credit Card,Good,2,iPhone,No,4.1
+C10247,58.0,Male,Pune,Basic,2320.6,25.69,243,39,0,27,Debit Card,Average,1,iPhone,No,3.3
+C10268,,Male,Hyderabad,Standard,2191.77,13.35,162,54,0,17,Debit Card,Poor,1,Android,Yes,3.4
+C10546,56.0,Female,Bengaluru,Standard,1864.27,19.09,408,33,2,80,UPI,Average,1,Android,No,3.9
+C10050,37.0,Male,Salem,Standard,329.83,20.03,461,54,0,75,UPI,Excellent,1,Android,No,4.2
+C10162,24.0,Male,Hyderabad,Premium,2098.64,28.26,152,58,0,47,Debit Card,Average,2,iPhone,No,4.6
+C10208,45.0,Male,Chennai,Standard,2374.73,6.74,754,40,1,71,Credit Card,,3,iPhone,No,4.0
+C10578,22.0,Male,Bengaluru,Standard,1437.31,7.62,152,51,2,74,,Average,3,Android,No,4.2
+C10514,29.0,Male,Chennai,Standard,773.94,15.85,419,50,0,29,Net Banking,Poor,3,iPhone,No,3.8
+C10068,35.0,Female,Coimbatore,Premium,571.42,19.75,410,57,2,12,UPI,Excellent,2,iPhone,No,2.9
+C11157,58.0,Female,Chennai,Premium,570.33,,294,49,0,81,Auto Pay,Excellent,0,Android,No,5.0
+C10346,48.0,Male,Hyderabad,Basic,766.77,17.21,356,40,3,34,UPI,Excellent,2,iPhone,Yes,3.3
+C10343,41.0,Male,Chennai,Premium,614.81,9.24,641,45,1,31,Credit Card,Average,0,iPhone,Yes,3.9
+C10707,46.0,Male,Chennai,Basic,752.85,4.41,375,47,1,54,UPI,Good,0,Android,No,4.1
+C10800,41.0,Other,Coimbatore,Standard,1873.67,7.67,173,44,0,7,Credit Card,Average,1,Android,No,4.6
+C10759,62.0,Male,Hyderabad,Basic,2363.28,20.74,334,50,2,7,Net Banking,Poor,4,Android,Yes,1.5
+C10002,46.0,Male,Mumbai,Premium,1793.87,20.58,648,52,1,77,,Average,1,iPhone,No,3.8
+C10308,20.0,Female,Bengaluru,Unlimited,1889.56,3.36,113,54,4,84,Net Banking,Poor,3,Android,Yes,2.1
+C10882,62.0,Male,Coimbatore,Premium,2316.23,14.48,484,59,1,60,Auto Pay,Good,1,Android,No,3.7
+C10826,28.0,Other,Pune,Basic,1430.3,10.62,252,39,0,10,Credit Card,Good,1,Android,No,5.0
+C11075,32.0,Male,Pune,Basic,2099.87,3.79,108,55,1,16,Net Banking,Good,2,Android,Yes,4.8
+C10645,25.0,Male,Salem,Basic,1899.78,6.5,192,37,4,13,Credit Card,Poor,2,iPhone,No,1.7
+C10758,18.0,Male,Hyderabad,Basic,2025.05,23.07,531,45,1,59,Debit Card,Excellent,4,iPhone,No,3.7
+C10006,38.0,Male,Chennai,Standard,1348.91,13.66,503,32,4,19,Debit Card,Average,1,Android,Yes,3.0
+C10936,54.0,Female,Mumbai,Premium,328.32,12.34,940,48,2,63,UPI,Good,1,Android,No,3.5
+C11089,21.0,Male,Mumbai,Standard,722.21,5.14,1075,39,1,58,UPI,Poor,1,Android,Yes,2.4
+C10620,62.0,Male,Chennai,Premium,378.07,11.65,121,52,1,58,Auto Pay,Average,2,Android,Yes,3.3
+C10639,20.0,Female,Salem,Standard,566.72,21.34,160,47,0,37,Net Banking,Excellent,1,iPhone,No,4.2
+C10793,35.0,Male,Hyderabad,Unlimited,289.31,5.12,120,41,2,75,Net Banking,Good,3,iPhone,No,3.4
+C10991,60.0,Male,Coimbatore,Standard,398.43,41.91,288,42,1,56,Net Banking,Good,3,iPhone,No,2.9
+C10616,54.0,Male,Pune,Basic,2290.69,25.91,261,32,3,21,UPI,Average,0,Android,No,3.6
+C10009,40.0,Other,Bengaluru,Unlimited,628.27,9.76,403,51,1,67,Auto Pay,Excellent,2,iPhone,No,3.9
+C10034,32.0,Female,Pune,Standard,906.87,18.66,56,45,2,52,Auto Pay,Good,0,Android,Yes,4.0
+C10584,40.0,Male,Pune,Standard,215.06,30.14,591,41,3,27,Auto Pay,Poor,2,Android,No,3.1
+C10122,54.0,Male,Chennai,Standard,2104.9,19.61,88,32,1,65,Auto Pay,Average,2,Android,No,4.2
+C10511,61.0,Male,Bengaluru,Unlimited,1366.84,15.4,645,50,3,67,Credit Card,Good,1,Android,No,2.9
+C10182,30.0,Female,Salem,Premium,574.74,10.2,305,35,5,31,Credit Card,Excellent,1,Android,No,3.1
+C10410,50.0,Female,Chennai,Premium,1912.99,8.46,399,41,3,32,Credit Card,Good,0,Android,No,3.4
+C11088,50.0,Female,Madurai,Premium,1283.74,4.26,382,46,1,58,Debit Card,Good,1,iPhone,No,4.5
+C11137,35.0,Female,Mumbai,Unlimited,2496.22,7.93,223,38,3,81,UPI,Poor,1,Android,Yes,2.6
+C10161,49.0,Male,Madurai,Premium,1474.78,14.76,136,48,1,16,Credit Card,Average,1,Android,No,3.9
+C11198,50.0,Male,Pune,Basic,1690.08,8.92,262,38,1,9,Net Banking,Average,1,iPhone,No,4.7
+C10763,57.0,Male,Madurai,Unlimited,2142.59,17.54,300,50,0,2,Auto Pay,Excellent,1,iPhone,No,3.7
+C10922,51.0,Male,Madurai,Standard,,28.4,505,38,1,86,UPI,Poor,4,Android,Yes,1.9
+C10973,22.0,Female,Mumbai,Basic,718.32,29.97,251,47,0,19,Debit Card,Excellent,0,Android,No,4.3
+C10389,25.0,Male,Bengaluru,Premium,917.98,19.68,85,44,4,54,UPI,Excellent,2,Android,No,2.8
+C10954,41.0,Female,Hyderabad,Premium,1523.03,7.59,445,46,3,53,Debit Card,Excellent,1,Android,No,2.4
+C10236,46.0,Other,Mumbai,Basic,1577.53,12.94,278,38,1,2,Net Banking,Average,2,iPhone,No,4.3
+C11158,39.0,Female,Trichy,Unlimited,2408.72,34.99,552,45,3,5,Debit Card,,0,Android,Yes,4.2
+C10385,53.0,Female,Trichy,Standard,1751.25,26.63,740,48,2,77,UPI,Excellent,1,Android,No,3.0
+C10878,40.0,Male,Mumbai,Basic,1894.4,9.55,462,32,1,34,Debit Card,Good,2,Android,No,3.4
+C10465,22.0,Female,Pune,Premium,1849.17,9.61,496,70,1,77,Debit Card,Average,2,iPhone,No,4.1
+C11162,63.0,Male,Chennai,Premium,1233.87,11.76,573,51,1,71,Auto Pay,Poor,0,Android,No,3.5
+C11053,31.0,Male,Coimbatore,Standard,1045.98,8.14,255,29,1,54,Net Banking,Poor,0,iPhone,No,3.5
+C10859,26.0,Male,Mumbai,Premium,1584.68,19.41,77,48,3,58,Debit Card,Good,4,Android,No,2.7
+C10272,58.0,Female,Chennai,Standard,1155.38,42.63,188,42,1,78,UPI,Poor,5,Android,No,2.0
+C10241,43.0,Female,Madurai,Standard,422.02,6.71,164,39,1,95,Credit Card,Poor,0,Android,No,3.1
+C10781,40.0,Female,Pune,Standard,1843.79,12.97,535,45,1,77,Debit Card,Excellent,1,iPhone,No,3.6
+C10930,54.0,Male,Salem,Premium,1246.99,1.91,552,65,3,89,Auto Pay,Good,3,Android,No,3.0
+C10476,40.0,Male,Kochi,Premium,1259.07,13.32,239,38,1,40,Auto Pay,Good,2,Android,Yes,3.9
+C10249,57.0,Male,Mumbai,Basic,844.38,10.44,295,48,1,71,Debit Card,Excellent,4,Android,No,2.4
+C10751,27.0,Female,Pune,Premium,1507.6,5.42,332,50,1,30,Net Banking,Excellent,2,Android,No,3.6
+C11105,25.0,Female,,Standard,622.89,4.64,146,46,3,29,Auto Pay,Poor,2,Android,No,1.8
+C10561,42.0,Female,Hyderabad,Standard,288.6,12.32,123,45,1,72,UPI,Good,3,iPhone,No,3.7
+C10483,36.0,Male,Kochi,Basic,1802.16,23.3,722,54,3,66,UPI,Good,1,iPhone,Yes,3.1
+C10953,53.0,Female,Coimbatore,Standard,2343.9,15.77,257,56,1,48,Net Banking,Excellent,6,Android,No,2.6
+C10051,,Male,Coimbatore,Unlimited,1962.01,35.16,326,57,0,65,UPI,Average,3,Android,No,3.7
+C10275,33.0,Female,Pune,Standard,1394.11,7.67,225,39,0,5,Auto Pay,Poor,2,Android,No,2.6
+C10487,62.0,Male,Kochi,Premium,457.96,18.18,154,53,2,52,UPI,Good,4,Android,No,2.7
+C10682,27.0,Male,Kochi,Basic,1570.87,3.58,416,37,1,36,Auto Pay,Good,1,iPhone,No,4.3
+C10888,40.0,Female,Trichy,Basic,2435.66,4.38,451,42,3,18,Credit Card,Good,1,Feature Phone,Yes,2.6
+C10661,38.0,Female,Trichy,Standard,523.76,15.28,233,39,1,44,UPI,Good,2,Android,No,3.5
+C10597,28.0,Male,Salem,Unlimited,869.13,41.03,45,56,0,61,UPI,Excellent,0,Android,No,5.0
+C10999,61.0,Male,Mumbai,Unlimited,2364.07,9.94,173,49,0,64,Debit Card,Average,2,iPhone,No,3.9
+C10869,18.0,Male,Hyderabad,Basic,1713.11,20.26,335,44,2,42,Debit Card,Average,2,Feature Phone,Yes,3.4
+C10305,37.0,Female,Salem,Unlimited,1797.39,15.29,514,51,3,78,UPI,Average,4,Feature Phone,No,2.7
+C10123,52.0,Female,Coimbatore,Premium,2000.98,9.4,138,45,2,58,Auto Pay,Good,1,Feature Phone,No,2.8
+C10234,23.0,Male,Pune,Standard,425.38,8.72,227,52,0,3,UPI,,2,Feature Phone,No,4.6
+C10830,57.0,Male,Kochi,Standard,294.44,12.97,448,44,1,56,Auto Pay,Good,2,iPhone,No,3.3
+C10448,56.0,Male,Coimbatore,Premium,514.79,26.54,135,46,4,65,,Good,3,Feature Phone,No,2.4
+C10841,22.0,Female,Mumbai,Standard,320.5,15.25,165,50,2,69,Net Banking,Good,2,Android,No,2.2
+C10203,20.0,Female,Madurai,Premium,300.35,13.01,293,40,5,22,UPI,Poor,0,iPhone,Yes,2.0
+C10754,38.0,Male,Mumbai,Unlimited,985.25,20.92,193,45,2,84,UPI,Average,4,Android,Yes,3.7
+C10512,46.0,Female,Hyderabad,Basic,517.25,4.42,305,43,2,56,Auto Pay,Good,1,Android,No,3.8
+C10611,26.0,Female,Hyderabad,Standard,2000.27,25.87,745,51,3,8,Debit Card,Excellent,1,iPhone,Yes,3.1
+C10701,34.0,Female,Bengaluru,Standard,1771.9,17.16,421,54,0,34,UPI,Good,2,Android,No,4.5
+C11145,53.0,Male,Chennai,Basic,926.85,20.36,393,45,3,57,Credit Card,Excellent,0,Feature Phone,No,3.4
+C10369,19.0,Male,Bengaluru,Basic,1497.56,9.35,24,41,3,17,UPI,Good,0,Android,No,3.5
+C10049,19.0,Male,,Standard,925.28,35.92,157,53,2,81,Auto Pay,Good,2,Android,No,3.3
+C10773,29.0,Female,Bengaluru,Premium,,34.08,525,55,1,31,,Excellent,1,iPhone,Yes,2.5
+C10970,43.0,Male,Bengaluru,Unlimited,622.3,18.66,250,42,3,2,Net Banking,Average,0,iPhone,No,2.5
